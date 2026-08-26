@@ -1,0 +1,12 @@
+# Model Training Layer — offline training on PC workstation
+# Trains prediction models on historical sensor + questionnaire data; best model redeployed to edge-intelligence/
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+xgboost==2.1.1
+matplotlib==3.9.1
+seaborn==0.13.2
+jupyterlab==4.2.4
+pythermalcomfort==2.10.0
+joblib==1.4.2

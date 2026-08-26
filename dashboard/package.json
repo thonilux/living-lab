@@ -1,0 +1,22 @@
+{
+  "name": "living-lab-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Web dashboard + occupant questionnaire for Living Lab adaptive thermal & lighting control",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "mqtt": "^5.10.1",
+    "recharts": "^2.12.7",
+    "axios": "^1.7.4"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2",
+    "@vitejs/plugin-react": "^4.3.1"
+  }
+}

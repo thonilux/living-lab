@@ -1,0 +1,2521 @@
+
+
+===== PAGE 1 =====
+PANDUANPENYUSUNAN PERTANGGUNGJAWABANANGGARAN PENELITIAN DANPENGABDIAN KEPADA MASYARAKATTAHUN 2026
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 2 =====
+1 
+ 
+ 
+PANDUAN 
+PENYUSUNAN PERTANGGUNGJAWABAN ANGGARAN 
+PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT 
+ TAHUN 2026  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEMBAGA PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT  
+UNIVERSITAS SEBELAS MARET 
+SURAKARTA 
+2026
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 3 =====
+ii 
+ 
+ 
+ KATA PENGANTAR 
+ 
+Puji syukur kita panjatkan kepada Allah SWT, berkat karunia serta hidayah-Nya kami 
+dapat menyelesaikan penyusunan Panduan Pertanggungjawaban Anggaran Pelaksanaan 
+Penelitian dan Pengabdian kepada Masyarakat (P2M) Tahun 2026. Panduan ini memuat 
+uraian mengenai mekanisme pertanggungjawaban anggaran yang sesuai dengan peraturan 
+internal UNS dan peraturan perundang-undangan yang berlaku. 
+Panduan Penyusunan Pertanggungjawaban anggaran Pelaksanaan P2M Tahun 2026 
+merupakan panduan yang ditujukan bagi Tenaga Pendidik dan Tenaga Kependidikan 
+Pelaksana Kegiatan P2M di lingkungan Universitas Sebelas Maret dalam membuat 
+pertanggungjawaban anggaran , serta bagi pembantu peneliti  dalam melaksanakan tugas 
+mendampingi para pelaksana kegiatan P2M agar dapat menyusun pertanggungjawaban 
+anggaran secara baik dan benar. 
+Penyusunan pertanggungjawaban anggaran sangat penting bagi para Tenaga 
+Pendidik dan Tenaga Kependidikan pelaksana kegiatan P2M yang melaksanakan tugas 
+penelitian dan pengabdian kepada masyarakat karena dana tersebut bersumber dari keuangan 
+negara yang haru s dipertanggungjawabkan penggunaannya berdasarkan Undang -Undang 
+Nomor 17 Tahun 2003 tentang Keuangan Negara.  
+Semoga panduan ini dapat menjadi acuan para pelaksana kegiatan P2M di lingkungan 
+Universitas Sebelas Maret dalam penyusunan pertanggungjawaban anggaran kegiatan. Kami 
+sangat mengharapkan kritik dan saran untuk perbaikan panduan penyusunan 
+pertanggungjawabkan anggaran penelitian dan pengabdian kepada masyarakat. 
+ 
+10 Juni 2026          
+Ketua LPPM, 
+ 
+ 
+Prof. Dr. I Gusti Ayu Ketut Rachmi H., S.H., M.M. 
+NIP 197210082005012001 
+ 
+ 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 4 =====
+iii 
+ 
+DAFTAR ISI 
+ 
+Halaman Cover i 
+Kata Pengantar ii 
+Daftar Isi iii 
+A. PENDAHULUAN 1 
+B. DASAR HUKUM 2 
+C. PENYUSUNAN PERTANGGUNGJAWABAN ANGGARAN 4 
+1. Pertanggungjawaban anggaran Pelaksanaan P2M 4 
+2. Ketentuan Pertanggungjawaban Anggaran 7 
+a. Honorarium             7 
+b. Belanja Bahan           13 
+c. Belanja Perjalanan          26 
+d. Belanja Operasional Lainnya         35 
+D. BARANG MILIK UNIVERSITAS DAN BARANG HASIL KEGIATAN P2M 39 
+E. MEKANISME PENGAJUAN PEMBAYARAN PAJAK 46 
+F. MEKANISME PENGAJUAN DOKUMEN PENGADAAN BARANG/JASA 46 
+DENGAN NOMINAL > Rp 10.000.000,-  
+G. SURAT PERNYATAAN TANGGUNGJAWAB MUTLAK (SPTJM) 46 
+H. PENUTUP 46 
+LAMPIRAN 
+Cover Laporan Pertanggungjawaban Anggaran   47 
+ 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 5 =====
+1 
+ 
+A. PENDAHULUAN 
+Universitas Sebelas Maret (UNS) sebagai Perguruan Tinggi Negeri Badan Hukum 
+(PTNBH) memiliki otonomi penuh dalam mengelola keuangan dan sumber dayanya. 
+Transformasi status ini berdampak signifikan terhadap upaya mewujudkan sumber daya 
+manusia yang unggul s erta memposisikan UNS sebagai pusat pengembangan ilmu 
+pengetahuan dan teknologi yang adaptif terhadap perkembangan zaman. Sebagai PTNBH, 
+UNS dituntut untuk melakukan efisiensi, optimalisasi sumber daya, dan penguatan 
+kelembagaan yang bermuara pada pencapaian Indikator Kinerja Utama (IKU). 
+Dalam mendukung penguatan kelembagaan tersebut, Lembaga Penelitian dan 
+Pengabdian kepada Masyarakat (LPPM) berperan sebagai unsur pelaksana akademik yang 
+bertugas menyelenggarakan serta mengoordinasikan kegiatan penelitian dan pengabdian. 
+LPPM menjalankan fungsi strategis yang mencakup: 
+● Penyusunan rencana, program, anggaran, serta administrasi lembaga. 
+● Pelaksanaan riset ilmiah murni dan terapan, hilirisasi, komersialisasi produk, serta 
+pengembangan jurnal ilmiah dan publikasi. 
+● Penyelenggaraan pengabdian kepada masyarakat berbasis inovasi teknologi. 
+● Pembangunan kerja sama regional, nasional maupun internasional, sekaligus 
+penjaminan mutu seluruh kegiatan penelitian dan pengabdian kepada masyarakat. 
+Sejalan dengan arah kebijakan UNS menuju universitas bereputasi internasional, 
+pengelolaan penelitian dan pengabdian kepada masyarakat juga diarahkan melalui 
+pendekatan yang lebih terukur dan berbasis kinerja. Kegiatan penelitian dikembangkan 
+dengan pendekatan berbasis luaran ( output-based research ), yaitu menempatkan 
+capaian hasil penelitian sebagai orientasi utama, seperti publikasi ilmiah bereputasi, Hak 
+Kekayaan Intelektual (HKI), prototipe, model, kebijakan, teknologi tepat guna, maupun 
+bentuk hilirisasi lainnya yang memberikan kontribusi nyata terhadap pengembangan ilmu 
+pengetahuan dan peningkatan daya saing institusi. Sementara itu, kegiatan pengabdian 
+kepada masyarakat dikembangkan melalui pendekatan berbasis aktivitas ( activity-
+based community service ), yang menitikberatkan pada implementasi program, 
+keterlibatan aktif masyarakat, kebermanfaatan langsung, serta dampak sosial yang terukur 
+melalui pelaksanaan kegiatan pemberdayaan, pendampingan, pelatihan, diseminasi 
+inovasi, dan transfer teknologi. 
+LPPM dituntut berperan aktif dalam pengembangan ilmu pengetahuan, teknologi, 
+dan seni. Oleh karena itu, output yang dihasilkan harus berorientasi pada skala nasional 
+dan internasional, pengembangan riset unggulan, peningkatan perolehan Hak Kekayaan 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 6 =====
+2 
+ 
+Intelektual (HKI), serta penciptaan inovasi yang relevan dalam mengatasi berbagai 
+permasalahan di masyarakat. 
+Agar seluruh target capaian tersebut berjalan selaras dengan prinsip tata kelola 
+yang baik ( good governance), LPPM perlu menyusun Pedoman Pertanggungjawaban 
+Anggaran Pelaksanaan Penelitian dan Pengabdian kepada Masyarakat. Pedoman ini 
+berfungsi sebagai instrumen untuk menjamin tertib administrasi serta pelaporan keuangan 
+yang akuntabel, sesuai dengan peraturan internal UNS maupun peraturan perundang -
+undangan yang berlaku. 
+B. DASAR HUKUM 
+1. Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara; 
+2. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional 
+(Lembaran Negara Republik Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran 
+Negara Republik Indonesia No.4301);  
+3. Undang-Undang Nomor 12 Tahun 20l2 tentang Pendidikan Tinggi (Lembaran Negara 
+Republik Indonesia Tahun 2012 Nomor 156, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 5336);  
+4. Undang-Undang Nomor 7 Tahun 2021 tentang Harmonisasi Peraturan Perpajakan; 
+5. Undang-Undang Nomor 10 Tahun 2020 tentang Bea Meterai;  
+6. Peraturan Pemerintah Nomor 48 Tahun 2008 tentang Pendanaan Pendidikan 
+sebagaimana telah diubah dalam Peraturan Pemerintah Nomor 18 Tahun 2022 tentang 
+Perubahan Atas Peraturan pemerintah Nomor 48 Tahun 2008 Tentang Pendanaan 
+Pendidikan (Tambahan lembaran Negara Republik Indonesia Nomor 6793):  
+7. Peraturan Pemerintah Nomor 4 Tahun 2014 tentang Penyelenggaraan Pendidikan 
+Tinggi dan pengelolaan Perguruan Tinggi (Lembaran Negara Republik Indonesia 
+Tahun 2014 Nomor 16, Tambahan l,embaran Negara Republik Indonesia Nomor 5500);  
+8. Peraturan Pemerintah Nomor 26 Tahun 2015 tentang Bentuk dan Mekanisme 
+pendanaan Perguruan Tinggi Negeri Badan Hukum (Lembaran Negara Republik 
+Indonesia Tahun 2015 Nomor 110, Tambahan lembaran Negara Republik Indonesia 
+Nomor 5699) sebagaimana diubah dengan peraturan pemerintah Nomor 8 Tahun 2020 
+tentang Perubahan Atas Peraturan Pemerintah Nomor 26 Tahun 2015 tentang Bentuk 
+dan Mekanisme pendanaan Perguruan Tinggi Negeri Badan Hukum (Lembaran Negara 
+Republik Indonesia Tahun 2020 Nomor 28, Tambahan Lembaran Negara Republik 
+Indonesia Nomor 6461);  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 7 =====
+3 
+ 
+9. Peraturan Pemerintah Nomor 56 Tahun 2020 tentang Perguruan Tinggi Negeri Badan 
+Hukum Universitas Sebelas Maret (Lembaran Negara Republik Indonesia Tahun 2020 
+Nomor 228, Tambahan Lembaran Negara Republik Indonesia Nomor 6562);  
+10. Peraturan Pemerintah Nomor 57 Tahun 2021 tentang Standar Nasional pendidikan 
+sebagaimana telah diubah dalam Peraturan pemerintah Nomor 4 Tahun 2022 
+Perubahan Atas peraturan pemerintah Nomor 57 Tahun 2021 tentang Standar 
+Nasional Pendidikan (Lembaran Negara Republik Indonesia Nomor 14);  
+11. Peraturan Menteri Keuangan Nomor 108/ PMK. 06 / 2017 tentang Tata Cara 
+penetapan Nilai Kekayaan Awal Perguruan Tinggi Negeri Badan Hukum (Berita 
+Negara Republik Indonesia Tahun 2017 Nomor 1062);  
+12. Peraturan Menteri Keuangan Nomor: 100/PMK.02/2020 tentang Tata Cara 
+penyediaan, Pencairan dan pertanggungiawaban pemberian Bantuan Pendanaan 
+perguruan Tinggi Negeri Badan Hukum (Berita Negara Republik Indonesia Tahun 
+2020 Nomor 865);  
+13. Peraturan Menteri Keuangan Nomor 59/PMK.03/2022 tentang Perubahan atas 
+Peraturan Menteri Keuangan Nomor 231/PMK.03/2019 tentang Tata Cara 
+Pendaftaran dan Penghapusan NPWP, Pengukuhan dan Pencabutan Pengukuhan PKP, 
+serta Pemotongan dan/atau Pemungutan, Peny etoran, dan Pelaporan Pajak bagi 
+Instansi Pemerintah  
+14. Peraturan Menteri Keuangan Republik Indonesia Nomor 136 Tahun 2023 tentang 
+Perubahan Atas Peraturan Menteri Keuangan Nomor 112/PMK.03/2022 tentang 
+nomor pokok wajib pajak bagi Wajib Pajak Orang Pribadi, Wajib Pajak Badan, dan 
+Wajib Pajak Instansi Pemerintah; 
+15. Peraturan Menteri Keuangan Nomor 168 Tahun 2023 tentang Petunjuk Pelaksanaan 
+Pemotongan Pajak atas Penghasilan Sehubungan dengan Pekerjaan, Jasa, atau 
+Kegiatan Orang Pribadi  
+16. Peraturan Menteri Keuangan Republik Indonesia Nomor 39 Tahun 2024 Tentang 
+Standar Biaya Masukan Tahun Anggaran 2025; 
+17. Peraturan Menteri Keuangan Nomor 81 Tahun 2024 tentang Ketentuan Perpajakan 
+dalam Rangka Pelaksanaan Sistem Inti Administrasi Perpajakan  
+18. Peraturan Direktur Jenderal Pajak Nomor PER -03/PJ/2022 tentang Faktur Pajak 
+sebagaimana telah diubah dengan Peraturan Direktur Jenderal Pajak Nomor PER -
+11/PJ/2022  
+19. Peraturan Majelis Wali Amanat Universitas Sebelas Maret Nomor 1 Tahun 2020 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 8 =====
+4 
+ 
+tentang Organisasi dan Tata Kelola Universitas Sebelas Maret;  
+20. Peraturan Majelis Wali Amanat Universitas Sebelas Maret Nomor 3 Tahun 2021 
+tentang Pengelolaan Keuangan Universitas Sebelas Maret;  
+21. Keputusan Majelis Wali Amanat Universitas Sebelas Maret Nomor 
+15/UN27.MWA/HK/ 2024 tentang Pengangkatan Rektor Universitas Sebelas Maret 
+Masa Jabatan 2024-2029; 
+22. Peraturan Rektor Universitas Sebelas Maret Nomor 38 Tahun 2021 tentang Pedoman 
+Pengadaan Barang/Jasa Universitas Sebelas Maret; 
+23. Peraturan Rektor Nomor 35 Tahun 2021 tentang Penatausahaan Barang Milik 
+Universitas Sebelas Maret; 
+24. Peraturan Rektor Nomor 44 Tahun 2022 tentang Pedoman Pertanggungjawaban 
+Pengelolaan Dana Universitas Sebelas Maret; 
+25. Peraturan Rektor Universitas Sebelas Maret Nomor 11 Tahun 2023 tentang Tata Cara 
+Pengelolaan Dana Universitas Sebelas Maret; 
+26. Peraturan Rektor Nomor 19 Tahun 2024 tentang Organisasi dan Tata Kerja Unsur di 
+bawah Rektor (Berita Universitas Sebelas Maret Tahun 2024 Nomor 5), sebagaimana 
+telah diubah dengan Peraturan Rektor Nomor 14 Tahun 2025 tentang Perubahan Atas 
+Peraturan Rektor Nomor 19 Tahun 2024 tentang Organisasi dan Tata Kerja Unsur di 
+bawah Rektor (Berita Universitas Sebelas Maret Tahun 2025 Nomor 15); 
+27. Peraturan Rektor Universitas Sebelas Maret Nomor 30 Tahun 2024 tentang Standar 
+Biaya Masukan Universitas Sebelas Maret Tahun Anggaran 2025; 
+28. Peraturan Rektor Universitas Sebelas Maret Nomor 31 Tahun 2025 tentang Pedoman 
+Pelaksanaan Penelitian dan Pengabdian kepada Masyarakat. 
+C. PENYUSUNAN PERTANGGUNGJAWABAN ANGGARAN 
+1. Pertanggungjawaban Anggaran Pelaksanaan P2M 
+Dalam menyusun pertanggungjawaban anggaran pelaksanaan P2M, pelaksana 
+kegiatan P2M wajib menyusun laporan pertanggungjawaban anggaran P2M dengan 
+ketentuan penggunaan anggaran sebagai berikut: 
+a. Pertanggungjawaban anggaran dibuat sesuai dengan pengeluaran penelitian/ 
+pengabdian kepada masyarakat mengacu pada ketentuan pembelanjaan yg tercantum 
+dalam Panduan Penelitian dan Pengabdian Kepada Masyarakat Universitas Sebelas 
+Maret Edisi XII Tahun 2026 dan Panduan Penelitian dan Pengabdian kepada 
+Masyarakat Kementerian Pendidikan Tinggi, Sains, dan Teknologi Tahun 2026; 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 9 =====
+5 
+ 
+b. Pertanggungjawaban anggaran dibuat berdasarkan realisasi anggaran kegiatan sesuai 
+dana yang diterima. Jika terdapat dana yang tidak terserap maka harus 
+mengembalikan dana melalui Seksi Umum dan Keuangan LPPM; 
+c. Pertanggungjawaban atas pembelian barang/jasa, pembayaran honorarium, sewa, 
+jasa, perjalanan, dan transaksi lain dalam pelaksanaan kegiatan Penelitian dan 
+Pengabdian kepada Masyarakat wajib mengikuti ketentuan perpajakan yang berlaku. 
+Jenis pajak yang dapat timbul antara lain PPh Pasal 21, PPh Pasal 22, PPh Pasal 23, 
+PPh Final Pasal 4 ayat (2), PPN, dan Bea Meterai, sesuai dengan karakter transaksi, 
+status penyedia/penerima penghasilan, serta mekanisme pembayaran yang 
+digunakan; 
+d. Sesuai dengan Buku Panduan Penelitian dan Pengabdian Kepada Masyarakat 
+Kemendiktisaintek Tahun 2026, dana penelitian yang bersumber dari dana APBN 
+TIDAK DIPERBOLEHKAN untuk hal-hal sebagai berikut: 
+1) Pembelian tanah/lahan; 
+2) Pembelian kendaraan operasional; 
+3) Pembangunan lab baru/gedung/kantor; 
+4) Pembelian alat seperti mesin, peralatan laboratorium, atau 
+5) Peralatan lain yang berpotensi menjadi aset; 
+6) Pembelian/pengadaan alat komunikasi termasuk pulsa/paket internet; 
+7) Jaminan dan pinjaman kepada pihak lain; 
+8) Hibah atau bantuan berbentuk uang tunai kepada pihak lain atau masyarakat; 
+9) Penggunaan lainnya yang tidak relevan dengan pencapaian target luaran 
+penelitian. 
+Sedangkan ketentuan dana pengabdian yang bersumber dari dana APBN sebagai 
+berikut: 
+1) Komponen biaya upah dan jasa tidak diperuntukan untuk honorarium 
+narasumber, pembawa acara, moderator, panitia, MC dan lain sejenisnya 
+2) Mitra tidak berhak memperoleh upah dan jasa dari komponen biaya ini 
+3) Komponen Biaya Teknologi dan Inovasi yang diajukan minimal 50% dari total 
+dana usulan yang  mencakup teknologi dan inovasi yang diserahkan kepada 
+mitra dan termasuk instalasi teknologi dan inovasi. Komponen ini tidak 
+diperbolehkan untuk pembelian lahan, kendaraan operasional, renovasi 
+ruangan/bangunan, pembelian laptop/komputer, dan pembelian 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 10 =====
+6 
+ 
+telephone/handphone. Seluruh alat dan bahan dalam komponen ini menjadi 
+barang milik negara yang diserahkan kepada mitra dan harus dilabel sumber 
+pendanaan dari DPPM dan logo Kemdiktisaintek serta disertakan Berita Acara 
+Serah Terima Aset (BAST) 
+4) Pengadaan barang pada komponen teknologi dan inovasi diutamakan berasal 
+dari toko yang telah memiliki NPWP 
+e. Dana penelitian dan pengabdian kepada masyarakat yang bersumber dari dana Non 
+APBN DIPERBOLEHKAN untuk belanja barang aset tetap sebagai pendukung 
+kegiatan penelitian dan pengabdian kepada masyarakat. Apabila terdapat pengadaan 
+belanja aset tetap yang telah disepakati, maka pembelian aset tetap tersebut WAJIB 
+dilaporkan dan dicatatkan ke Fakultas/Unit Kerja barang tersebut berada sebagai 
+Barang Milik Universitas (BMU) dengan menggunakan dokumen BAST. Dokumen 
+BAST tersebut harus dilampirkan sebagai bagian yang tidak terpisahkan dari 
+dokumen pertanggungjawaban keuangan kegiatan penelitian.  Apabila barang 
+tersebut diserahkan kepada mitra/masyarakat sebagai bagian dari luaran pengabdian, 
+maka tidak dicatat sebagai BMU pada Fakultas/Unit Kerja, tetapi wajib dilengkapi 
+BAST, dokumentasi penyerahan, dan data penerima.  
+f. Laporan pertanggungjawaban anggaran kegiatan penelitian dan pengabdian kepada 
+masyarakat terdiri dari: 
+1) Cover (disesuaikan dengan laporan akhir, contoh format cover tercantum pada 
+contoh Lampiran I), 
+2) Rekapitulasi Penggunaan Anggaran (hasil download dari sistem iris), 
+3) Bukti pengeluaran dana kegiatan disusun rapi sesuai urutan rekapitulasi 
+penggunaan dana beserta kelengkapan dokumen surat pertanggungjawaban 
+kegiatan (termasuk Berkas Berita Acara Serah Terima pembelian barang produk 
+hasil dari P2M). 
+g. Laporan Pertanggungjawaban berupa kuitansi/bukti pengeluaran asli beserta 
+kelengkapannya disusun, dipindai dan diunggah  dalam sistem IRIS1103 untuk 
+sumber dana Non APBN dan APBN, atau sistem BIMA untuk Dana APBN 
+Kemendikbudristek sesuai urutan rekapitulasi penggunaan keuangan. Kuitansi bukti 
+fisik/hard copy selanjutnya dijilid dan disimpan oleh Ketua Pelaksana P2M.  
+Ketua pelaksana P2M bertanggung jawab sepenuhnya, baik secara formal 
+maupun material, atas kebenaran dan kelengkapan data, serta penyimpanan seluruh 
+bukti pengeluaran sesuai dengan jumlah dana yang diterima. Apabila dilakukan 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 11 =====
+7 
+ 
+pemeriksaan oleh auditor internal maupun eksternal terhadap laporan keuangan 
+beserta dokumen pertanggungjawabannya, ketua pelaksana P2M bersedia 
+memberikan klarifikasi terkait pelaksanaan kegiatan tersebut di hadapan auditor 
+2. Ketentuan Pertanggungjawaban Anggaran 
+a. Honorarium 
+Untuk dana P2M yang berasal dari Non APBN, ketentuan biaya gaji dan upah, 
+honorarium tidak diperbolehkan untuk ketua peneliti, anggota peneliti, tenaga 
+pendidik maupun tenaga kependidikan. Pemberian honorarium hanya diperbolehkan 
+untuk narasumber luar UNS,  pembantu peneliti, koordinator peneliti, se kretariat 
+peneliti, pengolah data, petugas survey, dan pembantu lapangan. Sedangkan untuk 
+sumber dana lain, ketentuannya menyesuaikan dengan pemberi dana.  
+Namun sesuai SK Menteri Diktisaintek RI Nomor: 87/M/KEP 2026 t entang SBM 
+Lainnya terkait Honorarium Tim Pelaksana pada Program Penelitian dan 
+Pengembangan yang diselenggarakan oleh Kemendiktisaintek, honorarium 
+diberikan dengan proporsi maksimal 25% dari dana yang diterima dengan ketentuan 
+sebagai berikut: 
+1) Ketua dapat diberikan honorarium per bulan paling banyak 150% dari 
+honorarium anggota; 
+2) Anggota dapat diberikan honorarium paling banyak Rp 2.400.000,00 per bulan; 
+3) Tenaga administratif dapat dapat diberikan honorarium paling banyak Rp 
+820.000,00 per bulan; dan 
+4) Pembantu peneliti dapat diberikan honorarium paling banyak Rp 25.000,00 per 
+jam. 
+Kelengkapan terkait honorarium adalah sebagai berikut: 
+1) Dokumen pertanggungjawaban Honorarium Narasumber/ Moderator/ 
+Pembawa Acara Luar UNS: 
+Honorarium Narasumber / Moderator / 
+Pembawa Acara Luar UNS 
+(Pagu di SBM UNS yang berlaku) 
+1. Undangan Sebagai Narasumber 
+2. Daftar Penerimaan honorarium 
+3. Surat Permohonan Narasumber 
+4. Surat Kesediaan Narasumber atau Surat Tugas 
+dari instansi/mitra narasumber 
+5. Rundown Acara disertai durasi 
+6. Daftar Hadir (jika kegiatan daring cetak 
+screenshoot yang memperlihatkan tanggal dan 
+jamnya) 
+7. Setiap penerima honorarium wajib 
+menyampaikan NIK/NPWP yang valid dan 
+sesuai dengan data pada sistem perpajakan  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 12 =====
+8 
+ 
+8. Fotocopy halaman depan passport Narasumber 
+Luar Negeri 
+9. Bukti potong pajak di akun coretax masing -
+masing 
+2) Dokumen pertanggungjawaban Honorarium Pembantu Peneliti, Surveyor 
+dan Pengolah Data 
+Honorarium Pembantu Peneliti  
+Pagu: Rp 25.000,00/ jam  
+(per hari maksimal 4 jam) 
+1. Surat Tugas sebagai Pembantu Peneliti (jangka 
+waktu dari awal kontrak s.d. berakhirnya 
+kontrak) 
+2. Daftar Penerimaan honorarium 
+3. Daftar Hadir  
+4. Setiap penerima honorarium wajib 
+menyampaikan NIK/NPWP yang valid dan 
+sesuai dengan data pada sistem perpajakan  
+5. Bukti potong pajak di akun coretax masing -
+masing 
+Honorarium Surveyor 
+Pagu: Rp 20.000,00/ responden 
+1. Surat Tugas  
+2. Daftar Penerimaan honorarium 
+3. Daftar Responden 
+4. Setiap penerima honorarium wajib 
+menyampaikan NIK/NPWP yang valid dan 
+sesuai dengan data pada sistem perpajakan  
+5. Bukti potong pajak di akun coretax masing -
+masing 
+Honorarium Pembantu Lapangan 
+Pagu: Rp 80.000,00/ hari 
+1. Surat Tugas  
+2. Daftar Penerimaan honorarium 
+3. Daftar hadir 
+4. Setiap penerima honorarium wajib 
+menyampaikan NIK/NPWP yang valid dan 
+sesuai dengan data pada sistem perpajakan 
+5. Bukti potong pajak di akun coretax masing -
+masing 
+Honorarium Pengolah Data (1 orang/ 
+Penelitian) 
+Pagu: Rp 1.540.000,00/ penelitian 
+1. Daftar Penerimaan honorarium 
+2. Setiap penerima honorarium wajib 
+menyampaikan NIK/NPWP yang valid dan 
+sesuai dengan data pada sistem perpajakan 
+3. Bukti potong pajak di akun coretax masing -
+masing 
+3) Dokumen pertanggungjawaban Satuan Biaya Honorarium Panitia, Tim 
+Pelaksana Kegiatan Luar UNS: 
+Satuan Biaya Honorarium Panitia, Tim 
+Pelaksana Kegiatan Luar UNS 
+(jumlah panitia maksimal 10% dari jumlah peserta) 
+1. Surat Tugas  
+2. Daftar Penerimaan honorarium 
+3. Daftar Hadir  
+4. Setiap penerima honorarium wajib 
+menyampaikan NIK/NPWP yang valid dan 
+sesuai dengan data pada sistem perpajakan 
+5. Bukti potong pajak di akun coretax masing -
+masing 
+Seluruh pembayaran honorarium kepada orang pribadi, antara lain narasumber, 
+moderator, pembawa acara, pembantu peneliti, surveyor, pengolah data, pembantu 
+lapangan, panitia, atau penerima honorarium lainnya, dikenakan pemotongan PPh 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 13 =====
+9 
+ 
+Pasal 21 sesuai ketentuan perpajakan. Penerima honorarium wajib menyampaikan 
+NIK/NPWP yang valid agar bukti potong dapat dibuat melalui Coretax atau sistem 
+perpajakan yang berlaku.  
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 14 =====
+10 
+ 
+ 
+ 
+ 
+  
+ 
+Format untuk kuitansi honorarium adalah sebagai berikut: 
+ 
+ 
+TA    : 
+No. Bukti  :  
+KUITANSI 
+ 
+Sudah terima dari          :    Pejabat Pembuat Komitmen Universitas Sebelas Maret 
+Surakarta 
+Jumlah                              :    Rp 1.540.000,00 
+Terbilang             :    Satu juta Lima ratus Empat puluh ribu Rupiah 
+Guna membayar             : Honorarium Pengolah data  (*) dalam laporan Penelitian/ 
+Pengabdian(*) untuk kegiatan…………… dengan Penelitian/ 
+Pengabdian(*) berjudul ……….… dengan skim ....................... 
+Surat Kontrak Nomor: ................. Pelaksanaan Kegiatan 
+Penelitian/Pengabdian(*) sumber dana….......... Tahun Anggaran 
+2026, dengan rincian sebagai berikut:     
+Honor           :     Rp 1.540.000,00 
+Pph   21        :     Rp      77.000,00 
+Penerimaan  :     Rp 1.463.000,00 
+ 
+ 
+  
+ 
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+ 
+Nama Terang 
+NIP.................. 
+Surakarta, 
+Penerima, 
+ 
+Tanpa Meterai 
+ 
+Nama 
+NIK 
+ 
+                   
+ 
+(*) Mohon disesuaikan 
+ 
+ 
+Contoh Kuitansi Honorarium untuk satu orang 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 15 =====
+11 
+ 
+ 
+ 
+ 
+DAFTAR PENERIMAAN HONORARIUM 
+……………………………... (*) 
+TAHUN 2026 
+DENGAN JUDUL ............................................. 
+Berdasarkan Surat Penugasan Pelaksanaan Kegiatan Penelitian/ Pengabdian (*) 
+Nomor Kontrak:…………….., Tanggal Kontrak: …………. 
+ 
+NO NAMA JABATAN NIK 
+HONORARIUM/ 
+JAM 
+(Rp) 
+ 
+JUMLAH 
+JAM 
+ 
+JUMLAH 
+HARI 
+ 
+JUMLAH 
+HONORARIUM 
+(Rp) 
+PPh Ps. 21 
+(Rp) 
+ 
+PENERIMAAN 
+BERSIH (Rp) 
+TANDA 
+TANGAN 
+1 2           3 4 5 6          7 8 9 10  11 
+1 ……… 
+Pembantu    
+Peneliti* 
+ 
+xxxx 20.000,00 
+ 
+30 
+ 
+8 
+ 
+4.800.000,00 288.000,00 4.512.000,00  
+2 ………          
+dst ………          
+ ………          
+ ………          
+         (10) = 8-9  
+JUMLAH         
+Terbilang: jumlah bruto dengan huruf dalam rupiah 
+  
+                                 Setuju Dibebankan       
+Ketua Pelaksana, 
+ 
+ 
+ 
+(Nama Terang) 
+NIP………… 
+ 
+ 
+ 
+(*) mohon disesuaikan jabatan (pilih salah satu) : 
+a. Pembantu Peneliti/ Pelaksana* 
+b. Pengolah data* 
+c. Petugas Survey* 
+d. Pembantu lapangan* 
+e. Narasumber* 
+ 
+Keterangan:  
+Dilampiri FC KTP  
+ 
+  
+Contoh Daftar Penerimaan Honorarium lebih dari satu orang 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 16 =====
+12 
+ 
+                                 
+ 
+ 
+ 
+DAFTAR HADIR  
+……………………………... (*) 
+TAHUN 2026 
+DENGAN JUDUL ............................................. 
+Berdasarkan Surat Penugasan Pelaksanaan Kegiatan Penelitian/ Pengabdian (*) 
+Nomor Kontrak:…………….., Tanggal Kontrak: …. 
+ 
+  
+ 
+Ketua Pelaksana 
+ 
+ 
+ 
+(Nama Terang) 
+NIP………… 
+ 
+ 
+(*) mohon disesuaikan (pilih salah satu) : 
+a. Pembantu Peneliti/ Pelaksana* 
+b. Pengolah data* 
+c. Petugas Survey* 
+d. Pembantu lapangan* 
+e. Narasumber* 
+ 
+  
+NO NAMA JABATAN INSTANSI TANDA 
+TANGAN 
+1 2 3 
+4 5 
+ 
+ 
+8 
+1 …...................... Pembantu Peneliti* xxxxxxxxx  
+2   ..........................    
+3 ….......................    
+4 …………………    
+5 …………………    
+dst     
+Contoh Daftar Hadir  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 17 =====
+13 
+ 
+b. Belanja Bahan 
+Ketentuan pertanggungjawaban anggaran atas pembelian langsung 
+barang/jasa adalah sebagai berikut: 
+1) Pengadaan Barang/ Jasa oleh Pelaksana P2M 
+a) Pengadaan barang/jasa untuk Penelitian dan Pengabdian kepada Masyarakat 
+paling banyak Rp 10.000.000,- (Sepuluh Juta Rupiah), harus melengkapi 
+dokumen yang berisi sebagai berikut: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b)  
+Jenis Pembelian dan/ atau 
+Pengadaan 
+Kelengkapan Dokumen 
+Pengusaha PKP Pengusaha Non PKP 
+Pengadaan Barang 
+1. Nota/ Kuitansi yang 
+membayarkan/ Bukti 
+Pengadaan barang. 
+2. Faktur pajak 
+3. Kuitansi atau dokumen yang 
+menyatakan penerimaan 
+uang, pelunasan, atau 
+pengakuan pembayaran 
+dengan nilai nominal lebih 
+dari Rp5.000.000,00 wajib 
+dikenai Bea Meterai 
+Rp10.000,00 
+1. Nota/ Kuitansi yang 
+membayarkan/ Bukti Pengadaan 
+barang . 
+2. Surat Pernyataan non PKP 
+3. Kuitansi atau dokumen yang 
+menyatakan penerimaan uang, 
+pelunasan, atau pengakuan 
+pembayaran dengan nilai nominal 
+lebih dari Rp5.000.000,00 wajib 
+dikenai Bea Meterai Rp10.000,00 
+Jenis Pembelian dan/ 
+atau Pengadaan Status Penyedia  Pajak yang 
+Umumnya Terkait Dokumen Pendukung 
+Jasa, misalnya 
+percetakan, desain, 
+dokumentasi, 
+konsultan, teknik  
+Badan, seperti 
+PT/CV/koperasi/yaya
+san  
+PPh Pasal 23  1. Nota/ Kuitansi yang membayarkan/ 
+Bukti Pengadaan jasa. 
+2. Invoice dari penyedia 
+3. Faktur pajak (jika PKP) 
+4. bermeterai Rp 10.000, -, untuk 
+pembelian di atas Rp 5.000.000,- 
+5. Bukti pemenuhan kewajiban 
+perpajakan sesuai jenis transaksi 
+Jasa, misalnya 
+percetakan, desain, 
+dokumentasi, 
+konsultan, teknik  
+Orang pribadi/usaha 
+perorangan  
+PPh Pasal 21  1. Nota/ Kuitansi yang membayarkan/ 
+Bukti Pengadaan jasa. 
+2. Invoice dari penyedia 
+3. bermeterai Rp 10.000, -, untuk 
+pembelian di atas Rp 5.000.000,- 
+4. Identitas/NIK/NPWP  
+5. Bukti pemenuhan kewajiban 
+perpajakan sesuai jenis transaksi 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 18 =====
+14 
+ 
+ 
+Atas pembayaran kepada penyedia barang/jasa, pelaksana wajib 
+memperhatikan jenis pajak yang timbul sesuai karakter transaksi, antara lain: 
+a. PPh Pasal 22, apabila terutang, dapat berlaku atas pembelian barang sesuai 
+ketentuan perpajakan. Dalam konteks transaksi oleh PTNBH, pemenuhan 
+kewajiban PPh Pasal 22 mengikuti mekanisme perpajakan yang berlaku. 
+Penyetoran PPh Pasal 22 dilakukan oleh rekanan/penyedia. 
+b. PPh Pasal 23, dapat berlaku atas pembayaran jasa, sewa selain tanah 
+dan/atau bangunan, jasa teknik, jasa manajemen, jasa konsultan, dan jasa 
+lainnya sesuai ketentuan perpajakan; 
+Untuk pembayaran jasa, pelaksana wajib memastikan terlebih dahulu status 
+penyedia jasanya. Apabila penyedia jasa berbentuk badan, seperti PT, CV, 
+koperasi, yayasan, atau badan usaha lainnya, maka pembayaran jasa 
+tersebut dapat dikenakan PPh Pasal 23 sesuai ketentuan perpajakan. 
+Apabila penyedia jasa merupakan orang pribadi atau usaha perorangan, 
+maka pemotongan pajaknya pada prinsipnya mengikuti ketentuan PPh 
+Pasal 21. Contohnya, jasa percetakan, jasa desain, jasa dokumentasi, jasa 
+teknik, atau jasa konsultan yang dilakukan atas nama orang pribadi/usaha 
+perorangan dikenakan PPh Pasal 21, bukan PPh Pasal 23. 
+Khusus untuk pembayaran sewa harta selain tanah dan/atau bangunan, 
+seperti sewa kendaraan, sewa alat, sewa perlengkapan, atau sewa peralatan 
+Sewa kendaraan, sewa 
+alat, sewa perlengkapan  
+Badan atau orang 
+pribadi  
+PPh Pasal 23  1. Nota/ Kuitansi yang membayarkan/ 
+Bukti Pengadaan jasa. 
+2. Invoice dari penyedia 
+3. Faktur pajak (jika PKP) 
+4. Identitas/NIK/NPWP (jika orang 
+pribadi) 
+5. bermeterai Rp 10.000, -, untuk 
+pembelian di atas Rp 5.000.000,- 
+6. Bukti pemenuhan kewajiban 
+perpajakan sesuai jenis transaksi 
+Sewa tanah dan/atau 
+bangunan  
+Badan atau orang 
+pribadi  
+PPh Final Pasal 
+4 ayat (2)  
+1. Nota/ Kuitansi yang membayarkan/ 
+Bukti Pengadaan jasa. 
+2. Invoice dari penyedia 
+3. Identitas/NIK/NPWP (jika orang 
+pribadi) 
+4. bermeterai Rp 10.000, -, untuk 
+pembelian di atas Rp 5.000.000,- 
+5. Bukti pemenuhan kewajiban 
+perpajakan sesuai jenis transaksi 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 19 =====
+15 
+ 
+kegiatan, pengenaan pajaknya mengikuti ketentuan PPh Pasal 23, baik 
+penyedia sewanya berbentuk badan maupun orang pribadi. Untuk sewa 
+tanah dan/atau bangunan, pengenaan pajaknya mengikuti ketentuan PPh 
+Final Pasal 4 ayat (2).  
+c. PPh Final Pasal 4 ayat (2), dapat berlaku antara lain atas sewa tanah 
+dan/atau bangunan dengan tarif sesuai ketentuan perpajakan; 
+d. PPN dikenakan apabila transaksi dilakukan dengan penyedia berstatus 
+Pengusaha Kena Pajak (PKP) atas penyerahan Barang Kena Pajak dan/atau 
+Jasa Kena Pajak sesuai ketentuan perpajakan. Faktur Pajak diterbitkan oleh 
+rekanan/penyedia PKP dengan kode transaksi sesuai karakter transaksi. 
+Dalam hal transaksi menggunakan dasar pengenaan pajak berupa nilai lain, 
+Faktur Pajak dapat menggunakan kode transaksi 04/040 sesuai ketentuan 
+perpajakan yang berlaku. 
+c) Pengadaan barang/jasa secara e-marketplace untuk Penelitian dan 
+Pengabdian kepada Masyarakat untuk transaksi paling banyak 
+Rp10.000.000,00 ( Sepuluh Juta Rupiah ) dan harus melengkapi dokumen 
+sebagai berikut: 
+Jenis Pembelian dan/ atau 
+Pengadaan 
+Kelengkapan Dokumen 
+             Pengadaan Barang 
+1. Nota/ Kuitansi yang membayarkan/ Bukti Pengadaan Barang  
+2. Kuitansi atau dokumen yang menyatakan penerimaan uang, 
+pelunasan, atau pengakuan pembayaran dengan nilai nominal lebih 
+dari Rp5.000.000,00 wajib dikenai Bea Meterai Rp10.000,00  
+3. Invoice dan Surat Perintah Pengiriman 
+4. Bukti pembayaran ke marketplace (tunai/ transfer) 
+5. Bukti Pengiriman Barang & lampiran Foto/video barang 
+ 
+Pengadaan Jasa 
+1. Kuitansi Pengadaan format LPPM 
+2. Kuitansi atau dokumen yang menyatakan penerimaan uang, 
+pelunasan, atau pengakuan pembayaran dengan nilai nominal lebih 
+dari Rp5.000.000,00 wajib dikenai Bea Meterai Rp10.000,00  
+3. Invoice dan Surat Perintah Pengiriman 
+4. Bukti pemenuhan kewajiban perpajakan sesuai jenis transaksi, 
+antara lain PPH Pasal 21 atau PPh Pasal 23 atau PPh Final Pasal 4 
+ayat (2). 
+5. Bukti Foto/video pengadaan jasa 
+Pelaksana Penelitian dan Pengabdian kepada Masyarakat dapat mengadakan 
+sendiri kebutuhan barang/jasa secara langsung. 
+d) Pengadaan barang/jasa untuk Penelitian dan Pengabdian kepada Masyarakat 
+dengan nilai di atas Rp 10.000.000, - (Sepuluh Juta Rupiah ) sampai 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 20 =====
+16 
+ 
+dengan Rp 50.000.000, - (Lima Puluh Juta Rupiah) , harus mengetahui 
+Pejabat Pengadaan Bidang I (Dian Pranowo, S.H., NIP: 
+1983101620150401) dan WAJIB bertransaksi dengan penyedia  PKP serta 
+harus melengkapi Dokumen Sederhana yang berisi sebagai berikut: 
+Jenis Pembelian dan/ atau 
+Pengadaan 
+Kelengkapan Dokumen 
+             Pengadaan Barang 
+1. Kuitansi Pengadaan  
+2. Kuitansi atau dokumen yang menyatakan penerimaan uang, 
+pelunasan, atau pengakuan pembayaran dengan nilai 
+nominal lebih dari Rp5.000.000,00 wajib dikenai Bea 
+Meterai Rp10.000,00  
+3. Surat Pesanan 
+4. Surat Kesanggupan 
+5. Invoice dari Penyedia 
+6. Faktur Pajak 
+7. Bukti Pengiriman Barang & lampiran Foto/video barang 
+8. Surat Jalan 
+ 
+Pengadaan Jasa 
+1. Kuitansi Pengadaan  
+2. Kuitansi atau dokumen yang menyatakan penerimaan uang, 
+pelunasan, atau pengakuan pembayaran dengan nilai 
+nominal lebih dari Rp5.000.000,00 wajib dikenai Bea 
+Meterai Rp10.000,00  
+3. Surat Pesanan 
+4. Surat Kesanggupan 
+5. Invoice dari Penyedia 
+6. Faktur Pajak 
+7. Bukti pemenuhan kewajiban perpajakan sesuai jenis 
+transaksi, antara lain PPH Pasal 21 atau PPh Pasal 23 atau 
+PPh Final Pasal 4 ayat (2). 
+8. Surat Jalan 
+9. Bukti Foto/video pengadaan jasa 
+e) Pengadaan barang/jasa untuk Penelitian dan Pengabdian kepada Masyarakat 
+dengan nilai di atas Rp 50.000.000, - (Lima Puluh Juta Rupiah)  sampai 
+dengan Rp 500.000.000,- (Lima Ratus Juta Rupiah), harus melalui Pejabat 
+Pengadaan Bidang I  (Dian Pranowo, S.H., NIP: 1983101620150401 ) 
+Universitas Sebelas Maret dengan pembelian langsung dan harus melengkapi 
+Dokumen Lengkap  melalui Unit Kerja Pengadaan Barang dan Jasa 
+(UKPBJ) Universitas Sebelas Maret. 
+f) Pengadaan barang/jasa untuk Penelitian dan Pengabdian kepada Masyarakat 
+dengan nilai di atas Rp 500.000.000, - (Lima Ratus Juta Rupiah) , harus 
+melalui Pejabat Pembuat Komitmen (PPK) Bidang I (Agus Dwi Priyanto, 
+S.S.,M.CALL, NIP: 197408182000121001) Universitas Sebelas Maret.  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 21 =====
+17 
+ 
+2) Pengadaan Barang/ Jasa Melalui E-Purchasing (melalui situs resmi perusahaan)  
+berdasarkan pada ketentuan Peraturan Rektor Nomor 38 Tahun 2021 Tentang 
+Pedoman Pengadaan Barang/Jasa Universitas Sebelas Maret dan Peraturan Rektor 
+Nomor 44 Tahun 2022 Tentang Pedoman Pertanggungjawaban Pengelolaan Dana 
+Universitas Sebelas Maret 
+a) Perusahan/ Supplier Dalam Negeri. 
+Bukti utama yang diperlukan dapat didownload melalui e-catalogue, 
+sedangkan bukti tambahan pertanggungjawabannya meliputi: 
+(1) Surat perintah pengiriman dan invoice dan bukti pembayaran dari 
+perusahaan/supplier dalam negeri e-purchase dianggap sah sebagai alat 
+bukti pembayaran, 
+(2) Untuk transaksi melalui retail, toko daring, marketplace, atau sistem e -
+purchasing yang tidak menyediakan Faktur Pajak secara khusus, bukti 
+transaksi dari sistem/penyedia dapat digunakan sebagai dokumen 
+pertanggungjawaban sepanjang memuat informasi transak si yang 
+memadai. Apabila harga tercantum sudah termasuk PPN atau terdapat 
+pungutan pajak oleh sistem/penjual/platform, bukti transaksi tersebut 
+dilampirkan sebagai dokumen pendukung. Dalam hal penyedia berstatus 
+PKP dan dapat menerbitkan Faktur Pajak, maka  Faktur Pajak dapat 
+diminta dan dilampirkan. 
+b) Perusahan/ Supplier Luar Negeri. 
+Bukti utama yang diperlukan dapat didownload melalui e-catalogue, 
+sedangkan bukti tambahan pertanggungjawabannya meliputi: 
+a) Surat perintah pengiriman, invoice, dan bukti pembayaran dari 
+perusahaan/supplier luar negeri e-purchase dianggap sah sebagai alat 
+bukti pembayaran, 
+b) Jumlah pengenaan PPN dan Bea Masuk Bea Cukai, baru akan dikenakan 
+dan diketahui ketika pengiriman barang sampai di Indonesia. Jika 
+dikenakan PPN & Bea Masuk, akan ada surat pemberitahuan tagihan PPN 
+dan Bea Cukai. 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 22 =====
+18 
+ 
+Contoh Kuitansi Pembelian Langsung melalui Toko 
+ 
+ 
+ 
+  
+ 
+Format untuk kuitansi pembelian barang adalah sebagai berikut: 
+ 
+  
+TA          : 
+No. Bukti   : 
+ 
+KUITANSI 
+ 
+Sudah terima dari         :   Pejabat Pembuat Komitmen Universitas Sebelas Maret 
+Surakarta 
+Jumlah                           :    Rp 150.000,00 
+Terbilang                       :    Seratus Lima puluh ribu Rupiah 
+Guna membayar           : Pembelian Bahan Habis Pakai*  dalam laporan Penelitian/ 
+Pengabdian(*) untuk kegiatan…………… dengan Penelitian/ 
+Pengabdian(*) berjudul ……….… dengan skim ....................... 
+Surat Kontrak Nomor: ................. Pelaksanaan Kegiatan 
+Penelitian/Pengabdian(*) sumber dana….......... Tahun Anggaran 
+2026, sesuai dengan nota/ struk/ bukti pembelian tanggal 
+[Tanggal Nota] (terlampir) dengan rincian sebagai berikut:     
+ATK = Rp 150.000,00                                                                       
+ 
+ 
+ 
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+Nama Terang 
+NIP.................. 
+Surakarta, 
+Yang membayarkan/ menerima,** 
+Meterai 
+ 
+Nama Terang 
+ 
+                     
+(*) Mohon disesuaikan 
+(**) Apabila Kuitansi LPPM dengan tanda tangan dan cap toko memakai: Yang 
+menerima 
+       Apabila Kuitansi LPPM tanpa tanda tangan dan cap toko memakai: Yang 
+membayarkan 
+Meterai mohon disesuaikan dengan kaidah nominal pembelian. 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 23 =====
+19 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+TA          : 
+No. Bukti   : 
+ 
+KUITANSI 
+ 
+Sudah terima dari         :   Pejabat Pembuat Komitmen Universitas Sebelas Maret 
+Surakarta 
+Jumlah                           :    Rp 500.000,00 
+Terbilang                       :    Lima ratus ribu Rupiah 
+Guna membayar           : Pembelian Alat Optik* dalam laporan Penelitian/ Pengabdian(*) 
+untuk kegiatan…………… dengan Penelitian/ Pengabdian(*) 
+berjudul ……….… dengan skim ....................... Surat Kontrak 
+Nomor: ................. Pelaksanaan Kegiatan Penelitian/Pengabdian 
+(*) sumber dana….......... Tahun Anggaran 2026, sesuai dengan 
+nota/ struk/ bukti pembelian tanggal [Tanggal Nota] 
+(terlampir) dengan rincian sebagai berikut:     
+Alat Optik = Rp 500.000,00                                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+Nama Terang 
+NIP.................. 
+Surakarta, 
+Yang membayarkan, 
+Meterai 
+ 
+Nama Terang 
+                     
+ 
+ 
+(*) Mohon disesuaikan 
+Meterai mohon disesuaikan dengan kaidah nominal pembelian. 
+ 
+Contoh kuitansi Pembelian Langsung melalui E-commerce 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 24 =====
+20 
+ 
+Contoh kuitansi Pembelian Langsung Barang melalui Penyedia 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+TA          : 
+No. Bukti   : 
+KUITANSI 
+ 
+Sudah terima dari          :    Pejabat Pembuat Komitmen Universitas Sebelas Maret 
+Surakarta 
+Jumlah                              :    Rp 9.675.000,00 
+Terbilang             :    Sembilan juta Enam ratus ribu Tujuh puluh Lima ribu 
+Rupiah 
+Guna membayar             : Pembelian…….(*) dalam laporan Penelitian/ Pengabdian(**) 
+untuk kegiatan…………… dengan Penelitian/ Pengabdian(**) 
+berjudul ……….… dengan skim ....................... Surat Kontrak 
+Nomor: ................. Pelaksanaan Kegiatan 
+Penelitian/Pengabdian(**) sumber dana….......... Tahun 
+Anggaran 2026, sesuai dengan nota/ struk/ bukti pembelian 
+tanggal [Tanggal Nota] (terlampir) dengan rincian sebagai 
+berikut:          
+Alat Biogas: Rp 9.675.000,00 
+ 
+ 
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+ 
+Nama Terang 
+NIP.................. 
+Surakarta, 
+Direktur, 
+CV……………. 
+Meterai 
+ 
+ 
+Nama Terang 
+NPWP/NIK………….. 
+ 
+                   
+(*) Mohon disesuaikan (tidak diperkenankan pembelian berupa asset untuk 
+dana Penelitian APBN) 
+(**) Mohon disesuaikan 
+ 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 25 =====
+21 
+ 
+Kelengkapan Dokumen Sederhana: 
+ 
+  
+Jalan Ir. Sutami No. 36 A Kentingan, Jebres,  
+Surakarta, Jawa Tengah, Indonesia 57126.  
+Telepon: (0271) 646994 
+sebelasmaret@mail.uns.ac.id | uns.ac.id  
+ 
+SURAT PESANAN 
+              Nomor: (*) 
+Yth. CV………………………….. 
+Jalan……………………….. 
+…………………………….(**) 
+ 
+Hal: Pekerjaan…………..........(**) 
+Bersama ini kami mohon untuk melaksanakan Pekerjaan berupa 
+............................................. dalam rangka kegiatan Penelitian/ Pengabdian (**) dengan 
+judul..........................................,dengan perincian: 
+No Nama/ Spesifikasi 
+barang 
+Volume Satuan Harga/ Paket 
+Satuan 
+(Rp.) 
+Jumlah 
+Harga 
+(Rp) 
+1. 
+ 
+Jenis barang dan spefikasi 
+ 
+Jumlah 
+barang 
+Buah/ 
+Unit 
+- - 
+ 
+Total harga - 
+Harga sudah termasuk pajak-pajak yang berlaku 
+Terbilang : - 
+Atas perhatian dan kerjasamanya kami ucapkan terima kasih. 
+ 
+Mengetahui, 
+Pejabat Pengadaan Bidang I, 
+ 
+ 
+ 
+Dian Pranowo, S.H. 
+NIP 1983101620150401 
+Surakarta, ……………… 2026 
+Ketua Pelaksana, 
+ 
+ 
+ 
+.......................................... 
+NIP .................................. 
+ 
+(*) Nomor surat pesanan dikeluarkan oleh LPPM dengan membawa berkas 
+pengadaan ke Ruang Seksi Umum dan Keuangan LPPM (Eko Susanto) 
+(**) Mohon disesuaikan 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 26 =====
+22 
+ 
+KOP SURAT CV 
+(PENYEDIA BARANG DAN JASA) 
+ 
+ 
+SURAT KESANGGUPAN 
+ 
+Tanggal Surat Kesanggupan  
+ 
+Yth. Pejabat Pengadaan Bidang I 
+Universitas Sebelas Maret 
+Jl. Ir. Sutami No 36 A Surakarta 
+ 
+Hal:  Pekerjaan ……………………………..(*) 
+ 
+Menindaklanjuti Surat Pesanan Ketua Pelaksana kegiatan Penelitian/ Pengabdian*, Tanggal 
+......................... tentang Pekerjaan berupa ................................................ dalam rangka 
+kegiatan Penelitian/ Pengabdian (*) dengan judul....... ................................, dengan ini kami 
+bersedia dan sanggup melaksanakan pekerjaan tersebut sampai selesai setelah surat 
+kesanggupan ini. dengan rincian: 
+No Nama/Spesifikasi 
+barang Volume Satuan Harga/ paket 
+Satuan (Rp) 
+Jumlah harga 
+(Rp) 
+1. Jenis Barang dan 
+Spesifikasi 
+Jumlah 
+barang 
+ 
+Buah/unit Rp. 75.000,- Rp. 24.000.000,- 
+Total harga Rp. 24.000.000,- 
+Harga sudah termasuk pajak-pajak yang berlaku 
+Terbilang: Dua Puluh Empat Juta  Rupiah 
+ 
+Demikian mohon menjadikan periksa. 
+Surakarta,........................... 
+Nama CV ………………… (*) 
+ 
+ 
+(Nama Direktur) 
+Direktur 
+(*) Mohon disesuaikan 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 27 =====
+23 
+ 
+KOP SURAT CV 
+(PENYEDIA BARANG DAN JASA) 
+ 
+INVOICE 
+PENGADAAN ................. 
+ 
+ 
+No Nama/Spesifikasi barang Volume 
+Harga/paket Satuan 
+(Rp) 
+Jumlah harga  
+(Rp) 
+1. 
+ 
+Jenis Barang dan Spesifikasi Jumlah barang Rp. 75.000,00  Rp. 24.000.000,- 
+Total harga Rp. 24.000.000,- 
+ 
+ 
+ 
+ 
+Surakarta, .................2026 
+CV…………………..(*) 
+     
+ 
+ 
+ 
+(Nama Direktur)  
+  
+Direktur 
+ 
+ 
+ 
+(*) Mohon disesuaikan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 28 =====
+24 
+ 
+KOP SURAT CV 
+(PENYEDIA BARANG DAN JASA) 
+ 
+ 
+SURAT JALAN 
+PENGADAAN............... 
+ 
+         Tanggal Surat Jalan 
+   
+Hal: ………………….(*) 
+ 
+No Nama/Spesifikasi barang Volume Satuan  
+1. 
+ 
+Jenis Barang dan Spesifikasi Jumlah barang Buah/Unit/Kg/Meter  
+Total harga 
+ 
+ 
+ 
+CV…………………..(*)     Penerima, 
+ 
+ 
+ 
+(Nama Direktur)      (Nama Penerima) 
+Direktur        
+ 
+ 
+Mengetahui, 
+Ketua Pelaksana, 
+ 
+ 
+ 
+(Nama Ketua) 
+ NIP............................ 
+ 
+ 
+ 
+ 
+(*) Mohon disesuaikan. 
+LAMPIRAN: FOTO BARANG DAN/ATAU PADA SAAT SERAH TERIMA BARANG 
+ 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 29 =====
+25 
+ 
+TA          : 
+No. Bukti   : 
+KUITANSI 
+ 
+Sudah terima dari          :    Pejabat Pembuat Komitmen Universitas Sebelas Maret 
+Surakarta 
+Jumlah                            :    Rp 24.000.000,00 
+Terbilang             :    Dua puluh empat juta rupiah 
+Guna membayar          
+: 
+Pembelian…….(*) dalam laporan Penelitian/ 
+Pengabdian(**) untuk kegiatan…………… dengan 
+Penelitian/ Pengabdian(**) berjudul ……….… dengan skim 
+....................... Surat Kontrak Nomor: ................. Pelaksanaan 
+Kegiatan Penelitian/Pengabdian(**) sumber dana….......... 
+Tahun Anggaran 2026, sesuai dengan nota/ struk/ bukti 
+pembelian tanggal [Tanggal Nota] (terlampir) dengan 
+rincian sebagai berikut:          
+Alat Printing: Rp 24.000.000,00 
+  
+ 
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+Nama Terang 
+NIP.................. 
+ 
+Surakarta, 
+Direktur, 
+CV……………. 
+Meterai 
+ 
+Nama Terang 
+NPWP/NIK………….. 
+ 
+Mengetahui, 
+Pejabat Pengadaan Bidang I, 
+ 
+ 
+Dian Pranowo, S.H. 
+NIP 1983101620150401 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 30 =====
+26 
+ 
+c. Belanja Perjalanan  
+1) Belanja Perjalanan Dinas Dalam Negeri 
+Perjalanan Dinas Dalam Negeri dapat dilakukan oleh Ketua Pelaksana, Anggota 
+Pelaksana maupun Tenaga Penunjang yang melaksanakan kegiatan P2M di Luar 
+Universitas Sebelas Maret Surakarta. Perjalanan  dinas  mengacu pada Peraturan 
+Menteri Keuangan Nomor 119 T ahun 2023 tentang Perubahan atas Peraturan 
+Menteri Keuangan Nomor 113/PMK.05/2012 tentang Perjalanan Dinas Dalam 
+Negeri Bagi Pejabat Negara, Pegawai Negeri, dan Pegawai Tidak Tetap, 
+Peraturan Direktur Jenderal Perbendaharaan Nomor: Per -22/PB/2013, dan 
+Peraturan Rektor Universitas Sebelas Maret Nomor 30 Tahun 2024 tentang 
+Standar Biaya Masukan Universitas Sebelas Maret Tahun Anggaran 2025, yang 
+terdiri dari: 
+(a) Uang Harian Perjalanan Dinas terdiri dari uang makan, uang saku dan 
+transpor local. Uang harian untuk mahasiswa adalah 50% dari pagu; 
+(b) Transpor luar kota. (tiket/ e-ticket + boarding pass); 
+(c) Biaya Akomodasi Hotel (at cost), disesuaikan dengan maksimal SBM; 
+(d) Biaya Taksi dari rumah ke bandara PP dan bandara ke lokasi kegiatan PP (at 
+cost); 
+(e) Perjalanan Dinas didukung dengan Surat Tugas dari Ketua atau Sekretaris 
+LPPM UNS yang dapat diproses melalu web penugasan.uns.ac.id  
+(f) Pada saat perjalanan dinas berlangsung, diwajibkan untuk upload foto pada 
+halaman ISI BUKTI PERJALANAN, fokus pertama pada bagian Foto Bukti 
+Kegiatan (ditandai dengan ikon kamera 📷). Foto harus diambil 
+menggunakan smartphone atau tablet dengan GPS aktif agar watermark 
+koordinat dan waktu otomatis tercantum. Jika kegiatan berlangsung beberapa 
+hari, harap upload foto sesuai hari dalam perjalanan dinas tersebut. Setelah 
+itu klik menu ‘Upload dan Simpan’. 
+(g) Jika upload foto gagal karena tidak ada sinyal/kendala lain pada saat 
+pelaksanaan kegiatan, maka dapat upload dan simpan pada hari berikutnya 
+dengan menambahkan SPTJM sebagai kelengkapan SPJ SPPD 
+(h) Bukti pengeluaran asli disusun, dipindai dan diunggah di web 
+penugasan.uns.ac.id. Kuitansi SPPD dibuat oleh pelaksana P2M dan 
+disimpan oleh Pelaksana P2M. 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 31 =====
+27 
+ 
+(i) Panduan Pengajuan Surat Tugas P2M dapat diakses pada website LPPM 
+https://lppm.uns.ac.id/wp-content/uploads/2026/05/Panduan-Pengajuan-
+Surat-Tugas-P2M.pdf.  
+ 
+ 
+ 
+ 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 32 =====
+28 
+ 
+Format Kuitansi Perjalanan Dinas  
+ pd023    TA : 2026 
+         No. Bukti               :  
+            
+KUITANSI 
+            
+Telah terima dari : Pejabat Pembuat Komitmen Universitas Sebelas Maret   
+              
+Uang sebanyak : Rp xxxx          
+            
+Terbilang  :   …. Rupiah 
+             
+Guna membayar : 
+Biaya Perjalanan Dinas ke ...  a.n. ... selama... hari pada tanggal .... sampai dengan 
+tanggal ... sesuai Surat Tugas no … tanggal … Kegiatan … dalam rangka 
+Penelitian/Pengabdian Judul … Skema … Surat Kontrak Nomor: ................. 
+Pelaksanaan Kegiatan P enelitian/Pengabdian(**) sumber dana….......... Tahun 
+Anggaran 2026 dengan rincian sebagai berikut: 
+ 
+    No Rincian Jumlah   
+    1 Transportasi PP   Rp                -      
+       -Pergi      Rp      -                
+      -Pulang      Rp      -                
+    2 Penginapan         Rp                -       
+      … malam @  Rp      -                     
+    3 Taksi/Transport Lokal/E-toll Rp                -      
+    4 Uang Harian         Rp                -      
+      … hari @  Rp      -                  
+    5 Uang Representasi       Rp                -      
+      … hari @  Rp      -                 
+                Rp                -      
+            
+         
+Surakarta, 
+21 April 2025  
+             
+            
+             
+               Nama:…. 
+           NIP/ NIK…   
+               
+SETUJU DIBAYAR      
+Ketua Pelaksana,          
+               
+            
+Nama 
+NIP 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 33 =====
+29 
+ 
+ 
+ 
+SURAT PERNYATAAN TANGGUNG JAWAB MUTLAK 
+ 
+Yang bertandatangan di bawah ini : 
+Nama  : ……………………… 
+NIP  : ……………………… 
+Jabatan : …………………....... 
+Dengan ini menyatakan dengan sesungguhnya bahwa kami telah menerima sejumlah dana 
+dari Hibah penugasan pelaksanaan Penelitian dan Pengabdian kepada masyarakat dana 
+Non APBN UNS tahun 2026 sesuai SK Nomor 904/UN27/HK.02/2026 tanggal 13 April 
+2026 dengan jumlah sebesar Rp …………… (…………… Rupiah) untuk pembayaran 
+SPJ SPPD. 
+Menyatakan dengan sesungguhnya bahwa kami: 
+1. Bertanggungjawab sepenuhnya terhadap penggunaan dana tersebut. 
+2. Penggunaan dana tersebut yang dibuktikan dengan Surat Pertanggungjawaban 
+(SPJ) atas seluruh pengeluaran sesuai dengan aturan penatausahaan yang berlaku 
+3. Semua biaya yang ditimbulkan akibat proses pencairan dana tersebut 
+Apabila di kemudian hari terjadi penyalahgunaan dana kegiatan tersebut di atas, sehingga 
+menimbulkan kerugian negara, maka kami bersedia mengganti dan menyetorkan kerugian 
+tersebut ke Kas Negara dan bersedia menerima sanksi sesuai dengan peraturan perundang-
+undangan.  
+Demikian pernyataan ini kami buat dengan sebenar-benarnya. 
+ 
+ 
+       Surakarta,   …………….. 
+       Penanggungjawab Kegiatan 
+ 
+       (materai 10.000) 
+        
+ 
+ 
+Nama  
+        NIP
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 34 =====
+ 
+ 
+30 
+ 
+DAFTAR PENGELUARAN RIIL 
+ 
+Yang bertandatangan di bawah ini: 
+Nama  : 
+NIP  : 
+Jabatan   :  
+Berdasarkan Surat Perjalanan Dinas (SPD) Nomor ................. tanggal ................., dengan ini 
+kami menyatakan dengan sesungguhnya bahwa: 
+1. Biaya transpor pegawai dan/atau biaya penginapan dibawah ini yang tidak dapat diperoleh 
+bukti - bukti pengeluaran, meliputi: 
+NO URAIAN JUMLAH 
+1. Transpor Bandara / Stasiun PP  
+JUMLAH  
+ 
+2. Jumlah uang tersebut pada angka 1 di atas benar -benar dikeluarkan untuk pelaksanaan 
+perjalanan Dinas dalam rangka .........................................seperti dimaksud, dan apabila 
+dikemudian hari terdapat kelebihan atas pembayaran, kami bersedia untuk  menyetorkan 
+kelebihan tersebut ke kas Negara. 
+ 
+Demikian pernyataan ini kami buat dengan sebenarnya, untuk dipergunakan sebagaimana 
+mestinya. 
+ 
+       
+ 
+ 
+Catatan: Daftar Pengeluaran Riil ini digunakan jika tidak dapat diperoleh bukti -bukti 
+pengeluaran 
+ 
+ 
+Mengetahui 
+Ketua Pelaksana 
+ 
+ 
+ 
+Nama Terang 
+NIP  
+Surakarta, ..................................... 
+Yang melaksanakan tugas 
+ 
+ 
+ 
+ 
+Nama Terang 
+NIP 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 35 =====
+ 
+ 
+31 
+ 
+2) Bukti Belanja Perjalanan Dinas Luar Negeri  
+Perjalanan Dinas Luar Negeri dapat dilakukan oleh Ketua Pelaksana, Anggota 
+Pelaksana maupun Tenaga Penunjang yang melaksanakan kegiatan P2M di Luar 
+Universitas Sebelas Maret Surakarta. Perjalanan dinas mengacu pada Peraturan 
+Menteri Keuangan Republik Indon esia nomor 181/PMK.05/2019 tentang 
+perubahan kedua atas Peraturan Menteri Keuangan nomor 164/ PMK.05/2015 
+tentang Tata Cara Pelaksanaan Perjalanan Dinas Luar Negeri, Peraturan Rektor 
+Universitas Sebelas Maret Nomor 30 Tahun 2024 tentang Standar Biaya 
+Masukan Universitas Sebelas Maret Tahun Anggaran 2025, yang terdiri dari: 
+a) Uang Harian Perjalanan Dinas Luar Negeri diberikan penuh pada saat 
+kegiatan berlangsung, selainnya diberikan 40% dari tarif. Uang harian 
+terdiri dari: uang makan, uang saku, penginapan dan transpor lokal. 
+b) Transpor luar negeri (tiket/ e-ticket, boarding pass, airport tax); 
+c) Paspor cap imigrasi kedatangan 
+d) Setkab melalui Bagian Bagian Kerjasama, Pengembangan & 
+Internasionalisasi UNS didukung dengan Surat Tugas dari Ketua atau 
+Sekretaris LPPM UNS dan Surat Perintah Perjalanan Dinas (SPPD).  
+e) Pelaporan pertanggungjawaban Ketua Peneliti, Anggota Peneliti dan 
+Tenaga Teknis yang melakukan perjalanan dinas dibuat dalam bentuk Surat 
+Perintah Perjalanan Dinas (SPPD), yang berisi antara lain: 
+(1) Kuitansi format LPPM 
+(2) Surat Pengantar dari Fakultas yang ditandatangani oleh Dekan 
+berkaitan dengan pengajuan Surat Tugas kepada LPPM  
+(3) Surat Tugas Perjalanan Dinas dari Ketua LPPM.  
+(4) Lembar Surat Perintah Perjalanan Dinas (SPPD) harus dilengkapi 
+dengan stempel dan tanda tangan pejabat/ instansi yang dituju, 
+(5) Laporan Kedinasan. 
+(6) Persyaratan ijin kunjungan luar negeri singkat 
+(seminar,kerjasama, dll). Pengurusan ijin Sekretariat Kabinet tentang 
+perjalanan ke luar negeri dapat menghubungi Subdirektorat 
+Kerjasama UNS. 
+f) Kuitansi/ bukti pengeluaran asli disusun, dipindai dan diunggah di sistem 
+IRIS1103 sesuai urutan laporan penggunaan keuangan. Kuitansi bukti fisik 
+selanjutnya dijilid dan disimpan oleh Pelaksana P2M. 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 36 =====
+ 
+ 
+32 
+ 
+3) Perjalanan Dinas Jabatan di dalam Kota disertai surat penugasan: 
+a) Kurang dari 8 (delapan) jam: mendapatkan uang transpor lokal 
+b) Lebih atau sama dengan 8 (delapan) jam mendapatkan: 
+(a) Uang harian 
+(b) Pertanggungjawaban atas penggunaan e-toll sesuai dengan nota 
+penggunaan tol. 
+Kelengkapan dokumennya adalah sebagai berikut 
+Uang transportasi kegiatan di luar UNS 1. Undangan dilampiri Daftar Undangan  
+2. Daftar hadir  
+3. Daftar Penerimaan uang transport 
+ 
+ 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 37 =====
+ 
+ 
+33 
+ 
+Format Penerimaan Uang Transportasi dalam kota 
+ 
+DAFTAR PENERIMAAN UANG TRANSPORTASI DALAM KOTA 
+ 
+Acara : 
+Hari/Tanggal   : 
+Tempat   : 
+Kegiatan : 
+ 
+No Nama Jumlah Tanda Tangan 
+  Rp. 170.000,-*)/ Rp 
+150.000,-**) 
+ 
+  Rp. 170.000,  
+  Rp. 170.000,  
+  Rp. 170.000,  
+  Rp. 170.000,  
+ TOTAL Rp  
+Terbilang: jumlah dengan huruf dalam rupiah  
+  
+ Setuju Dibebankan  
+Ketua Pelaksana 
+ 
+ 
+(Nama Terang) 
+NIP………… 
+ 
+*) P2M yang bersumber dari dana Non APBN 
+**) P2M yang bersumber dari selain dana Non APBN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 38 =====
+ 
+ 
+34 
+ 
+DAFTAR HADIR KEGIATAN……… 
+ 
+ 
+Acara : 
+Hari/Tanggal   : 
+Tempat   : 
+Kegiatan : 
+ 
+     
+Surakarta, .............................. 
+Ketua Pelaksana 
+ 
+ 
+Nama terang 
+NIP................. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No Nama 
+Jabatan dan 
+Instansi 
+Tanda Tangan 
+    
+    
+    
+    
+    
+    
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 39 =====
+ 
+ 
+35 
+ 
+d. Belanja Operasional lainnya 
+Kelengkapan dokumen untuk belanja operasional lainnya adalah sebagai berikut: 
+1) Dokumen pertanggungjawaban konsumsi rapat: 
+Konsumsi rapat 1. Daftar Hadir  
+2. Bukti Pembelian/nota+cap  
+3. Kuitansi format LPPM 
+4. Undangan dilampiri daftar undangan, rundown kegiatan dan 
+notulen rapat 
+5. Bukti potong pajak di akun coretax masing -masing jika 
+menggunakan katering. 
+Jasa katering oleh badan dapat dikenakan PPh 23; orang 
+pribadi/usaha perorangan mengikuti PPh 21; pembelian makanan 
+biasa/retail mengikuti karakter pembelian barang/retail.  
+2) Dokumen pertanggungjawaban biaya rapat/pertemuan di luar kantor : 
+Biaya Akomodasi Rapat/Pertemuan di Luar 
+Kantor (Fullday/ Fullboard/ Halfday) 
+1. Invoice  
+2. Kuitansi format LPPM  
+3. Undangan, daftar undangan dan Daftar Hadir 
+3) Dokumen pertanggungjawaban jasa (fotocopy, proofreading, translate, sewa) 
+Jasa  
+Note: jasa proofreading dan translate berasal dari 
+lembaga legal dan kompeten 
+1. Nota+cap   
+2. Kuitansi format LPPM  
+3. Bukti potong pajak di akun coretax masing -
+masing 
+4) Dokumen pertanggungjawaban uang harian kegiatan rapat/pertemuan di 
+luar kantor: 
+Uang Harian Kegiatan Rapat/Pertemuan di 
+Luar Kantor 
+1. Daftar Hadir  
+2. Daftar Penerimaan uang harian 
+3. Undangan dilampiri daftar undangan  
+5) Dokumen Kontribusi/ Biaya Pelatihan / Seminar: 
+Uang Kontribusi/ Biaya pelatihan / Seminar 1. Undangan/leaflet/invoice yang 
+mencantumkan nominal harga 
+2. Surat tugas  
+3. Kuitansi format LPPM 
+4. Sertifikat pelatihan/seminar 
+6) Dokumen Insentif Rapat Dalam Kantor: 
+Insentif Rapat Dalam Kantor (di luar jam kerja 
+minimal 3 jam dan melibatkan jajaran wakil rektor/ 
+direktorat lain/ biro lain/ fakultas/ mahasiswa fakultas 
+lain/ unit kerja lain/ institusi lain/ masyarakat), insentif 
+rapat maksimal 2 kali dalam sebulan 
+1. Undangan dilampiri Daftar Undangan  
+2. Daftar hadir  
+3. Daftar Penerimaan uang saku rapat 
+4. Notulen Rapat 
+5. Bukti potong pajak di akun coretax masing -
+masing 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 40 =====
+ 
+ 
+36 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+TA          : 
+No. Bukti   : 
+KUITANSI 
+ 
+Sudah terima dari          :    Pejabat Pembuat Komitmen Universitas Sebelas Maret Surakarta 
+Jumlah                              :    Rp 3.000.000,00 
+Terbilang             :    Tiga juta Rupiah 
+Guna membayar             : Pembayaran jurnal ilmiah dalam laporan Penelitian/ 
+Pengabdian(*) untuk kegiatan…………… dengan Penelitian/ 
+Pengabdian(*) berjudul ……….… dengan skim ....................... 
+Surat Kontrak Nomor: ................. Pelaksanaan Kegiatan 
+Penelitian/Pengabdian(*) sumber dana….......... Tahun Anggaran 
+2026, sesuai dengan nota/ struk/ bukti pembayaran tanggal 
+[Tanggal Nota] (terlampir)  dengan rincian sebagai berikut :     
+Jurnal dengan judul......... : Rp 3.000.000,00 
+ 
+  
+ 
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+Nama Terang 
+NIP.................. 
+Surakarta, 
+Yang membayarkan, 
+ 
+ 
+Nama Terang 
+ 
+ 
+ 
+ 
+ 
+(*) Mohon disesuaikan 
+Meterai mohon disesuaikan dengan kaidah nominal pembelian. 
+ 
+ 
+  
+Contoh Kuitansi Pembayaran Jurnal Ilmiah 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 41 =====
+ 
+ 
+37 
+ 
+Contoh Kuitansi Pembayaran Langsung Jasa melalui Toko 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+TA          : 
+No. Bukti   : 
+KUITANSI 
+ 
+Sudah terima dari         :    Pejabat Pembuat Komitmen Universitas Sebelas Maret 
+Surakarta 
+Jumlah                            :    Rp 750.000,00 
+Terbilang    :    Tujuh ratus Lima puluh ribu Rupiah 
+  
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+Nama Terang 
+NIP.................. 
+Surakarta, 
+Yang membayarkan/ menerima,** 
+Meterai 
+ 
+Nama Terang 
+NIK/NPWP.................... 
+                     
+ 
+(*) Mohon disesuaikan 
+(**) Apabila Kuitansi LPPM dengan tanda tangan dan cap toko memakai: Yang 
+menerima 
+       Apabila Kuitansi LPPM tanpa tanda tangan dan cap toko memakai: Yang 
+membayarkan 
+Guna membayar            : Jasa Foto Copy (*) dalam laporan Penelitian/ Pengabdian(*) 
+untuk kegiatan…………… dengan Penelitian/ Pengabdian(*) 
+berjudul ……….… dengan skim ....................... Surat Kontrak 
+Nomor: ................. Pelaksanaan Kegiatan 
+Penelitian/Pengabdian(*) sumber dana….......... Tahun 
+Anggaran 2026, sesuai dengan nota/ struk/ bukti pembelian 
+tanggal [Tanggal Nota] (terlampir) dengan rincian sebagai 
+berikut :          
+1000 lembar x 3 exp x Rp 250,-  =  Rp 750.000,- 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 42 =====
+ 
+ 
+38 
+ 
+Contoh kuitansi Pembelian Langsung Jasa melalui Penyedia 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+TA          : 
+No. Bukti   : 
+KUITANSI 
+ 
+Sudah terima dari          :    Pejabat Pembuat Komitmen Universitas Sebelas Maret 
+Surakarta 
+Jumlah                              :    Rp 300.000,- 
+Terbilang             :    Tiga ratus ribu Rupiah 
+Guna membayar             : Konsumsi (*) dalam laporan Penelitian/ Pengabdian(*) untuk 
+kegiatan…………… dengan Penelitian/ Pengabdian(*) 
+berjudul ……….… dengan skim ....................... Surat Kontrak 
+Nomor: ................. Pelaksanaan Kegiatan 
+Penelitian/Pengabdian(*) sumber dana….......... Tahun 
+Anggaran 2025, sesuai dengan nota/ struk/ bukti pembelian 
+tanggal [Tanggal Nota] (terlampir) dengan rincian sebagai 
+berikut :          
+Konsumsi: Snack Rp 15.000,-x 20 = Rp 300.000,00 
+ 
+ 
+ 
+Setuju Dibebankan       
+Ketua Pelaksana 
+ 
+ 
+ 
+Nama Terang 
+NIP.................. 
+Surakarta, 
+Nama Katering……………. 
+Meterai 
+ 
+ 
+ 
+Nama Terang 
+NPWP/ NIK 
+ 
+                     
+ 
+ 
+ 
+(*) Mohon disesuaikan 
+Meterai mohon disesuaikan dengan kaidah nominal pembelian. 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 43 =====
+ 
+ 
+39 
+ 
+D. BARANG MILIK UNIVERSITAS (BMU) DAN BARANG HASIL KEGIATAN 
+P2M 
+Barang hasil pembelian dalam kegiatan Penelitian dan Pengabdian kepada Masyarakat 
+(P2M) wajib diidentifikasi sejak awal status penggunaannya, yaitu apakah digunakan 
+dan dikuasai oleh Universitas Sebelas Maret sebagai Barang Milik Universitas (BMU), 
+atau di serahkan kepada mitra/masyarakat sebagai bagian dari luaran kegiatan. 
+Identifikasi ini diperlukan agar proses pencatatan, pelaporan, dan serah terima barang 
+dapat dilakukan secara tertib sesuai ketentuan yang berlaku. Barang hasil pembelian 
+kegiatan P2M dibedakan menjadi:  
+a) Barang habis pakai, yaitu barang yang digunakan habis untuk pelaksanaan 
+kegiatan;  
+b) Aset tetap yang digunakan dan dikuasai oleh UNS, yang wajib dicatat sebagai 
+BMU. Barang tersebut wajib dilaporkan kepada pengelola BMU 
+Fakultas/Sekolah/Unit Kerja untuk dilakukan pencatatan sebagai BMU  yang wajib 
+dilengkapi BAST dengan Fakultas/Sekolah/Unit Kerja;  
+c) Aset tetap yang diserahkan kepada mitra/masyarakat, yaitu barang yang sejak awal 
+direncanakan untuk diserahkan kepada pihak di luar UNS sebagai bagian dari 
+luaran kegiatan pengabdian atau ketentuan program. Barang tersebut tidak dicatat 
+sebagai BMU pada Fakult as/Sekolah/Unit Kerja, tetapi wajib dilengkapi Berita 
+Acara Serah Terima (BAST) kepada mitra/masyarakat dan dokumentasi 
+pendukung.  
+Untuk aset tetap yang menjadi BMU, pelaksana wajib berkoordinasi dengan pengelola 
+BMU Fakultas/Sekolah/Unit Kerja. Kelengkapan dokumen untuk aset tetap yang 
+menjadi BMU meliputi:  
+1. bukti pembelian/kuitansi/invoice; 
+2. rincian barang, spesifikasi, jumlah, dan nilai perolehan; 
+3. foto barang; 
+4. bukti pengisian formulir aset tetap pada LPPM UNS atau formulir yang 
+ditetapkan; 
+5. BAST Aset Tetap sebagai BMU kepada Fakultas/Sekolah/Unit Kerja; 
+Untuk aset tetap yang diserahkan kepada mitra/masyarakat, pelaksana wajib 
+melengkapi dokumen sebagai berikut: 
+a. bukti pembelian/kuitansi/invoice; 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 44 =====
+ 
+ 
+40 
+ 
+b. rincian barang, spesifikasi, jumlah, dan nilai perolehan; 
+c. Foto barang sebelum digunakan/diserahkan; 
+d. Data calon penerima hibah; 
+e. Peruntukan hibah (lokasi/ tempat barang berada); 
+f. dokumentasi foto pada saat penyerahan barang; 
+g. BAST Hibah Barang kepada Mitra/Masyarakat 
+     
+ 
+ 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 45 =====
+ 
+ 
+41 
+ 
+Pelaporan Barang dan Berita Acara Serah Terima Barang 
+ 
+ 
+ 
+Berita Acara Serah Terima Aset Tetap sebagai Barang Milik 
+Universitas (BMU) 
+kepada Fakultas/ Unit Kerja/ Prodi/ Lab (*) 
+Dari ………………………………………………….. 
+Kepada ….................................. 
+ 
+Pada hari ……………., tanggal ……………………………………, bulan ……………………., 
+tahun ………………………., yang bertanda tangan di bawah ini : 
+1. Nama : …………………………………………………… 
+ NIP : …………………………………………………… 
+ Jabatan : …………………………………………………… 
+ Alamat :  
+ Yang Menyerahkan selanjutnya disebut Pihak Kesatu 
+    
+2. Nama : ................................................................................. 
+ NIP : ….............................................................................. 
+ Jabatan : ….............................................................................. 
+ Alamat : ................................................................................. 
+ Yang Menerima selanjutnya disebut Pihak Kedua 
+Berita Acara Serah Terima Aset Tetap  sebagai Barang Milik Universitas ini dibuat dan 
+ditandatangani oleh Pihak Kesatu dan Pihak Kedua di …..................... pada hari, tanggal, 
+bulan dan tahun (*) tersebut di atas, dalam kegiatan Penelitian/ Pengabdian(*) Tahun........  
+dengan judul .................................... 
+dibuat rangkap 2 (dua) lembar masing -masing dibubuhi meterai secukupnya dan mempunyai 
+kekuatan hukum yang sama. 
+ 
+Pihak Kesatu,  
+Nama Ketua Pelaksana 
+ 
+ 
+ 
+ 
+Pihak Kedua,  
+Wakil Dekan Bidang Non Akademik/ 
+Kepala Unit Kerja/ KaProdi (*) 
+(PEJABAT YG BERWENANG)* 
+ 
+…………………………………………….  ………………………………….. 
+NIP   NIP  
+   
+Mengetahui,       
+PENGELOLA SIM BMU  
+(Fakultas/ Unit Kerja) 
+ 
+………………………………….. 
+NIP  
+(*) mohon disesuaikan 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 46 =====
+ 
+ 
+42 
+ 
+Lampiran DAFTAR PEMBELIAN ASET 
+ 
+ 
+DAFTAR BARANG PEMBELIAN ASET TETAP 
+ P2M DANA Non APBN TAHUN 2026 
+Nama  :  
+ Skema  : 
+Judul  : 
+  
+Surakarta, 
+Ketua Pelaksana 
+ 
+----------------------------------
+-- 
+NIP 
+ 
+Mohon disertakan bukti foto per item barang 
+ 
+ 
+ 
+ 
+No 
+Nama 
+Barang 
+Jumlah 
+Barang 
+Spesifikasi 
+Barang 
+Harga 
+Barang 
+Foto 
+Barang 
+Lokasi 
+Barang 
+1.       
+2.       
+3.       
+4.       
+5.       
+6..       
+7.       
+8.       
+9.       
+10.       
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 47 =====
+ 
+ 
+43 
+ 
+Form BAST Hibah Kepada Masyarakat 
+ 
+ 
+ 
+Berita Acara Serah Terima Hibah Barang 
+Berupa Aset Tetap Kepada Masyarakat 
+Dari ………………………………………. 
+Kepada ….................................. 
+ 
+Pada hari ……………., tanggal ……………………………………, bulan ……………………., 
+tahun ………………………., yang bertanda tangan di bawah ini : 
+1. Nama : …………………………………………………… 
+ NIP : …………………………………………………… 
+ Jabatan : …………………………………………………… 
+ Alamat :  
+ Yang Menyerahkan selanjutnya disebut Pihak Kesatu 
+    
+2. Nama : ................................................................................. 
+ NIP : ….............................................................................. 
+ Jabatan : ….............................................................................. 
+ Alamat : ................................................................................. 
+ Yang Menerima selanjutnya disebut Pihak Kedua 
+ 
+Berita Acara Serah Terima Hibah Barang ini dibuat dan ditandatangani oleh Pihak Kesatu dan 
+Pihak Kedua di …..................... pada hari, tanggal, bulan dan tahun (*) tersebut di atas, dalam 
+kegiatan Penelitian/ Pengabdian(*) Tahun........  dengan judul .................................... 
+dibuat rangkap 2 (dua) lembar masing-masing dibubuhi meterai secukupnya dan mempunyai 
+kekuatan hukum yang sama. 
+ 
+Pihak Kesatu, 
+Nama Ketua Pelaksana 
+ Pihak Kedua, 
+Nama Penerima Hibah 
+ 
+ 
+ 
+....................................................  .................................................... 
+NIP  
+ 
+ NIP  
+ 
+   
+Mengetahui,       
+Lurah/Kades/Ketua RW/RT  
+(PEJABAT YG BERWENANG)* 
+ 
+ 
+….......................................... 
+NIP 
+  
+Lembaga Penelitian dan Pengabdian kepada Masyarakat 
+Jalan Ir. Sutami No. 36 A Kentingan, Jebres,  
+Surakarta, Jawa Tengah, Indonesia 57126.  
+Telepon: (0271) 632916 
+lppm@unit.uns.ac.id | lppm.uns.ac.id  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 48 =====
+ 
+ 
+44 
+ 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 49 =====
+ 
+ 
+45 
+ 
+Lampiran BAST HIBAH BARANG INVENTARIS 
+ 
+ 
+                        
+  Lampiran:   Berita Acara Serah Terima Hibah Berupa Aset Tetap    
+    dari…..................................... kepada...............................   
+    Nomor: …...................../…....../….........../ tanggal, bulan, 2026   
+              
+  Daftar Barang Hibah Barang Milik Universitas Berupa Aset Tetap dari…................................................ kepada.................................................   
+              
+  
+No 
+Barang Perolehan 
+Keterangan 
+  
+  
+Nama Merk, Tipe, Spesifikasi Tahun Jumlah Harga 
+Satuan 
+Jumlah 
+Harga   
+  1 2 3 4 5 6 7 8   
+  
+1 
+            Baru, baik, lengkap dan 
+berfungsi sebagaimana 
+semestinya 
+  
+  2                 
+  dst dst               
+              
+  Terbilang: Rp….................................................. (….................................................................................)     
+              
+    Pihak Kesatu,    Pihak Kedua,    
+    Nama Ketua Pelaksana    Nama Penerima Hibah    
+              
+              
+    .................................................
+...    ................................................
+.    
+    NIP      NIP      
+                        
+- Mohon menyertakan bukti foto penyerahan barang
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 50 =====
+ 
+ 
+46 
+ 
+ 
+E. MEKANISME PENGAJUAN PEMBAYARAN PAJAK 
+Alur pengajuan dapat diakses pada website LPPM https://lppm.uns.ac.id/wp-
+content/uploads/2026/05/Panduan-Ajuan-Pajak-P2M-dan-Kerja-Sama_LPPM.pdf.  
+F. MEKANISME PENGAJUAN DOKUMEN PENGADAAN BARANG/JASA 
+DENGAN NOMINAL > Rp 10.000.000,- 
+1. Ketua pelaksana P2M menyusun dokumen pengadaan barang/jasa. 
+2. Dokumen pengadaan barang/jasa yang sudah di tandatangani oleh penyedia 
+barang/jasa diserahkan ke bagian umum dan keuangan LPPM. 
+3. Dokumen akan diverifikasi oleh petugas, setelah lolos verifikasi akan diberikan 
+nomor surat pesanan dan ditandatangani oleh Pejabat Pengadaan Bidang I. 
+4. Petugas akan menghubungi ketua pelaksana P2M ketika dokumen sudah selesai. 
+G. SURAT PERNYATAAN TANGGUNG JAWAB MUTLAK (SPTJM) 
+Surat Pernyataan Tanggung Jawab Mutlak yang selanjutnya disingkat SPTJM adalah 
+pernyataan yang dibuat pengguna dana atau anggaran yang memuat jaminan atau 
+pernyataan bahwa seluruh pengeluaran telah dihitung dengan benar dan disertai 
+kesanggupan untuk menge mbalikan kepada universitas atau negara apabila terdapat 
+selisih atau dana tidak terserap. SPTJM wajib dibuat dan ditandatangani oleh Penerima 
+Dana Penugasan Penelitian dan Pengabdian Kepada Masyarakat (P2M) di atas meterai 
+10.000 dan dilampirkan setelah c over judul Penelitian atau Pengabdian pada Laporan 
+Pertanggungjawaban anggaran (SPJ). Adapun untuk sumber dana Non APBN, sptjm 
+mengunduh dari sistem iris1103 sedangkan sumber dana lainnya menyesuaikan dengan 
+ketentuan masing-masing. 
+H. PENUTUP 
+Demikian penyusunan panduan pertanggungjawaban anggaran Penelitian dan 
+Pengabdian Kepada Masyarakat ini disusun untuk memberi petunjuk penyusunan 
+panduan, sebagai tertib administrasi laporan keuangan secara benar, dan mengurangi 
+perbedaan persepsi, dalam p enyusunan pertanggungjawaban anggaran 
+penyelenggaraan kegiatan yang telah dilaksanakan. Semoga panduan ini dapat 
+dipergunakan sebagai panduan penyusunan laporan keuangan bagi para peneliti/ 
+pengabdi kepada masyarakat. 
+ 
+  
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
+
+
+
+===== PAGE 51 =====
+ 
+ 
+47 
+ 
+ 
+LAMPIRAN 
+Cover Laporan Pertanggungjawaban Anggaran P2M 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(*) mohon disesuaikan 
+ 
+COVER DANA NON APBN/ APBN* 
+S
+Skim Hibah               :  
+B
+Bidang Unggulan    : 
+ 
+LAPORAN PERTANGGUNGJAWABAN ANGGARAN 100%  
+PENELITIAN DAN PENGABDIAN KEPADA MASYARAKAT  
+ 
+ 
+ 
+...................(JUDUL PENELITIAN/ PENGABDIAN)*.................... 
+...........................................................................................  
+ 
+Oleh: 
+ 
+Account Representative: 
+…………………………………….. 
+ 
+Sesuai dengan Penugasan Pelaksanaan Tahun Anggaran 2026  
+Nomor: .......…………….. (*) 
+ 
+ 
+ 
+ 
+UNIVERSITAS SEBELAS MARET  
+SURAKARTA 
+2026 
+ 
+¹ Dokumen ini telah ditandatangani secara elektronik menggunakan sertifikat elektronik yang diterbitkan oleh BSrE
+² UU ITE No 11 Tahun 2008 Pasal 5 Ayat 1 
+  “Informasi Elektronik dan/atau Dokumen Elektronik dan/atau hasil cetaknya merupakan alat bukti hukum yang sah.”
