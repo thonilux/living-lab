@@ -30,3 +30,7 @@ Sensor data (indoor/outdoor temperature, humidity, illuminance, air velocity, oc
 6. Historical data used to train models on PC workstation; best model redeployed to Raspberry Pi
 
 See [docs/architecture.png](docs/architecture.png) for full diagram.
+
+## Progress
+
+See [docs/journal/](docs/journal/) for the running progress log.
