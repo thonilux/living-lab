@@ -110,14 +110,18 @@ Dipertanyakan: kenapa harus 3090, kenapa ga 5060 Ti aja? Trade-off dibahas, **ke
 
 ## Opsi hardware (revisi — mempertimbangkan socket)
 
-### Opsi A — AMD AM5 (rekomendasi upgradeability)
+### Opsi A — AMD AM5 (rekomendasi upgradeability) — RACIKAN FINAL berdasar scraping
 
-- AMD Ryzen 7 7700X / 9700X
-- DDR5 **32GB** (turun lagi dari 64GB — budget hard cap 40jt, lihat breakdown di bawah)
-- GPU: **RTX 5060 Ti 16GB** (final — lihat "Pilihan GPU" di atas)
-- Storage: **NVMe Gen4 1TB (OS+VM) + 2TB (data/InfluxDB/model artifact)** — kriteria durable-bukan-top-tier: WD Black SN770 (gen4, garansi resmi) atau setara, bukan Gen5/PCIe 5.0 premium yang mahal & belum perlu
-- PSU 1000W Gold
-- Mobo AM5 dengan VRM kuat + slot RAM 4x (biar bisa upgrade ke 64GB/128GB+ nanti tanpa ganti mobo) + **dual VGA slot support** (2x PCIe x16, minimal x16 + x8/x4) buat upgrade tambah GPU kedua nanti
+| Komponen | Pilihan | Harga real | Sumber |
+|---|---|---|---|
+| CPU | AMD Ryzen 7 9700X | **Rp5.675.000** | [Starcomp Solo](https://www.tokopedia.com/starcompsolo/etalase/processor-amd) |
+| Motherboard | MSI PRO B650-S WIFI (ATX, kandidat dual-VGA — **spek slot kedua belum diverifikasi**) | **Rp2.417.870** | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) |
+| RAM | DDR5 32GB kit 6000MHz CL30, G.Skill Flare X5 | **Rp6.500.000** | Tokopedia (cek ulang manual, belum dari toko utama) |
+| GPU | RTX 5060 Ti 16GB | **Rp13.150.000** (termurah, cek merk spesifik) | Tokopedia (belum dari toko utama Starcomp Solo/YOUNGS COMPUTER — masih perlu discrape) |
+| Storage | WD Black SN770 1TB + SN850X 2TB (atau ADATA Legend 900 1TB ~2,87jt sbg alternatif satu-toko) | **~Rp4.775.000** | Tokopedia — WD Official Store |
+| PSU | FSP Hydro G Pro 1000W 80+ Gold Modular ATX3.0 PCIe Gen5 | **Rp2.250.000** | [Starcomp Solo](https://www.tokopedia.com/starcompsolo/etalase/processor-amd) |
+| Casing + fan/cooler | belum discrape | ~Rp1.500.000 (estimasi) | — |
+| **TOTAL** | | **~Rp36.267.870** | sisa buffer ~Rp3,7jt dari cap 40jt |
 
 Kelebihan:
 - Socket AM5 disupport resmi sampai 2027+ — upgrade CPU next-gen tanpa ganti mobo
@@ -129,7 +133,7 @@ Kelebihan:
 Kekurangan:
 - Harga mobo AM5 + DDR5 sedikit lebih mahal dari platform DDR4 lama
 - Perlu pilih mobo bagus (bukan budget board) biar VRM/slot cukup buat upgrade jangka panjang
-- Requirement dual VGA slot naikin harga mobo lebih jauh — kebanyakan board entry (B650M) cuma 1 slot x16 fisik, butuh naik ke board mid-atas (B650/X670) buat 2 slot PCIe x16 beneran (bukan cuma x16 fisik tapi x1 elektrik)
+- Requirement dual VGA slot naikin harga mobo lebih jauh — kebanyakan board entry (B650M) cuma 1 slot x16 fisik, butuh naik ke board mid-atas ATX (B650/X670) buat 2 slot PCIe x16 beneran. Sudah ketemu 3 kandidat harga real (MSI PRO B650-S WIFI ~2,42jt, MSI B650 GAMING PLUS WIFI ~2,91jt, ASUS PRIME X670-P ~3,59jt) — tapi spek slot kedua-nya (x8/x4 elektrik atau cuma fisik) **belum diverifikasi manual**, racikan final pakai yang termurah dengan asumsi ini
 - PSU 1000W perlu dipastikan cukup buat 2 GPU nanti (5060 Ti ~180W x2 + CPU + komponen lain masih dalam batas, tapi kalau GPU kedua lebih besar/boros perlu dihitung ulang)
 - 32GB RAM buat host Proxmox + 2 VM (Ubuntu server + Windows MATLAB) + training itu ketat — kemungkinan cuma bisa jalanin satu VM berat pada satu waktu, atau alokasi tiap VM dipangkas kecil. Upgrade RAM jadi prioritas pertama begitu budget/harga DDR5 mengizinkan
 
@@ -179,19 +183,19 @@ Update pakai harga real hasil scraping Tokopedia/Shopee (RAM 32GB & PSU sudah da
 
 | Part | Estimasi (IDR) |
 |---|---|
-| Ryzen 7 9700X | 6.790.000 – 7.040.000 |
-| Mobo AM5 (mid, 4 slot RAM, VRM layak) — **belum termasuk premium buat dual VGA slot, lihat catatan di bawah** | ~3.000.000 – 3.905.000 |
+| Ryzen 7 9700X | **5.675.000** (Starcomp Solo, harga real) |
+| Mobo AM5 ATX dual-VGA kandidat (MSI PRO B650-S WIFI / B650 GAMING PLUS / ASUS PRIME X670-P) | **2.417.870 – 3.592.680** (harga real, Youngs Computer — lihat catatan verifikasi slot di bawah) |
 | RTX 5060 Ti 16GB | 13.150.000 – 19.116.000 |
 | RAM DDR5 32GB kit 6000MHz (G.Skill Flare X5 – Corsair Dominator Titanium) | **6.500.000 – 12.043.200** |
 | NVMe Gen4 1TB (WD Black SN770) + 2TB (WD Black SN850X) | **~4.775.000** |
-| PSU 1000W 80+ Gold | **2.490.000 – 3.186.000** |
+| PSU 1000W 80+ Gold | **2.250.000** (FSP Hydro G Pro, Starcomp Solo) – 3.186.000 |
 | Casing + fan/cooler | ~1.500.000 (estimasi, belum discrape) |
-| **Total (skenario hemat)** | **~38.205.000** |
-| **Total (skenario mahal)** | **~52.565.000** |
+| **Total (skenario hemat)** | **~36.267.870** |
+| **Total (skenario mahal)** | **~50.200.200** |
 
-Skenario hemat (semua part termurah, storage sudah harga real) masih muat di bawah 40jt tapi mepet (~1,8jt sisa) — lebih ketat dari estimasi sebelumnya karena storage jadi ~4,78jt (sebelumnya diestimasi ~2,5jt). Skenario mahal jauh lewat cap — kalau kepepet harus pilih RAM G.Skill Flare X5 (bukan varian premium) dan GPU/mobo di rentang tengah-bawah biar tetap ≤40jt.
+Skenario hemat makin turun setelah harga mobo dual-VGA kandidat ketemu (MSI PRO B650-S WIFI ~2,42jt, ATX full-size) — sisa buffer dari cap 40jt naik jadi **~3,7jt**. Skenario mahal masih lewat cap — kalau kepepet harus pilih RAM G.Skill Flare X5 (bukan varian premium) dan GPU/mobo di rentang tengah-bawah biar tetap ≤40jt.
 
-**Catatan mobo**: angka di atas masih pakai estimasi lama (entry-mid board, sebelum requirement dual VGA slot). Board B650/X670 dengan 2 slot PCIe x16 beneran kemungkinan lebih mahal dari ~3-3,9jt — perlu discrape ulang (lihat open questions), budget hemat di atas bisa makin mepet atau lewat cap begitu angka mobo dual-VGA masuk.
+**Catatan mobo — masih perlu verifikasi manual**: harga di atas ambil 3 board ATX full-size (bukan mATX) yang jadi kandidat kuat dual-VGA slot secara form factor, tapi **belum dikonfirmasi lewat spek sheet** apakah slot PCIe x16 kedua-nya beneran x16/x8 elektrik (bukan cuma slot fisik kosong tanpa lane). mATX board (MSI PRO B650M-B, ASRock B650M-HDV, dst — Rp1,85-2,3jt) lebih murah tapi biasanya cuma 1 slot x16 fisik, jadi dilewatin dari kandidat. Perlu cek manual spek sheet MSI PRO B650-S WIFI / MSI B650 GAMING PLUS WIFI / ASUS PRIME X670-P sebelum final keputusan.
 
 **RTX 3090 second dikonfirmasi bukan opsi hemat** — harga realistis 19-46,7jt, malah lebih mahal dari 5060 Ti (13,15-19,1jt) di titik manapun. Ini menguatkan keputusan pilih **RTX 5060 Ti** sbg default GPU (lihat "Pain & Gain" di atas), bukan cuma soal garansi/efisiensi tapi juga literally lebih murah.
 
@@ -232,24 +236,45 @@ Sumber: web search (Indonesia, snippet marketplace). **Catatan limitasi**: searc
 
 | Part | Harga estimasi (IDR) | Sumber |
 |---|---|---|
-| AMD Ryzen 7 9700X | 6.790.000 – 7.040.000 | [Tokopedia](https://www.tokopedia.com/find/ryzen-9700x) |
-| Motherboard AM5 (entry–mid) | 1.688.000 – 3.905.000 | ASRock B840M-HVS s/d B650I Lightning WiFi — [BigGo](https://biggo.id/s/motherboard%20atx%20ddr5%20am5) |
+| AMD Ryzen 7 9700X | **5.675.000** | [Starcomp Solo — Tokopedia](https://www.tokopedia.com/starcompsolo/etalase/processor-amd) (rating 5.0, 17rb+ terjual) — sebelumnya diestimasi 6,79-7,04jt, lebih murah dari perkiraan awal |
+| Motherboard AM5 (entry–mid, general) | 1.688.000 – 3.905.000 | ASRock B840M-HVS s/d B650I Lightning WiFi — [BigGo](https://biggo.id/s/motherboard%20atx%20ddr5%20am5) |
+| **Motherboard AM5 mATX (1 slot x16, TIDAK dipakai — dual-VGA requirement)** | 1.854.580 – 2.734.550 | MSI PRO B650M-B, ASRock B650M-HDV, MSI B650M GAMING WIFI/PLUS/PRO — [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) |
+| **Motherboard AM5 ATX — kandidat dual-VGA (MSI PRO B650-S WIFI)** | **2.417.870** | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) — ATX full-size, harga real termurah dari kandidat ATX |
+| Motherboard AM5 ATX — kandidat dual-VGA (MSI B650 GAMING PLUS WIFI) | 2.912.910 | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) |
+| Motherboard AM5 ATX X670 — kandidat dual-VGA (ASUS PRIME X670-P WIFI-CSM) | 3.592.680 | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) — chipset X670 (lebih banyak PCIe lane dari B650), kandidat paling meyakinkan buat dual x16 beneran |
+| Motherboard AM5 X870E/X870 (kelas atas, overkill) | 5.025.930 – 13.387.000 | ASUS ROG CROSSHAIR X870E HERO s/d MSI PRO X870-P — [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) — jauh di atas kebutuhan & budget |
 | RAM DDR5 128GB kit (Corsair Vengeance RGB 6400MHz) | ~29.000.000 | [telko.id](https://telko.id/trend-technology/harga-ram-ddr5-indonesia-2026/), [Jawa Pos](https://www.jawapos.com/teknologi/016918381/produsen-memori-berpaling-ke-ai-harga-ram-pc-di-2026-bakal-masih-selangit) |
 | **RAM DDR5 32GB kit 6000MHz CL30** | **6.500.000 (G.Skill Flare X5) – 12.043.200 (Corsair Dominator Titanium)** | [Tokopedia](https://www.tokopedia.com/find/ddr5-32gb-6000-mhz-cl30) — varian lain (XPG/Klevv) tembus 40-60jt, kemungkinan salah kategori/listing custom, abaikan sbg outlier |
+| RAM DDR5 32GB kit 5600MHz (Kingston Fury Beast EXPO / ADATA XPG Lancer Blade) | **8.040.000 – 8.050.000** | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) — toko besar (rating 4.9, 102rb+ terjual), harga konsisten antar brand, 5600MHz (bukan 6000MHz) tapi lebih established & availability jelas |
 | Intel Core Ultra 7 270K Plus (LGA1851) | ~4.800.000 | [carisinyal.com](https://carisinyal.com/news/intel-core-ultra-200s-plus/) |
 | Intel Core Ultra 5 250K Plus (LGA1851) | ~3.200.000 | [carisinyal.com](https://carisinyal.com/news/intel-core-ultra-200s-plus/) |
 | PC server rakitan Xeon Gold 5416S + 128GB DDR5 ECC | 23.000.000 – 25.000.000 | [Tokopedia](https://www.tokopedia.com/find/pc-server-xeon) |
 | **RTX 3090 24GB (second)** | **~19.000.000 (MSI Gaming) – 46.700.000 (ASUS ROG STRIX OC)** | [Tokopedia](https://www.tokopedia.com/find/3090-rtx) — ada listing Rp1.525.000 (Gigabyte Eagle) tapi kemungkinan bukan harga unit utuh/salah listing, diabaikan sbg outlier |
-| **PSU 1000W 80+ Gold** | **2.490.000 – 3.186.000** | KYO SAMA ARMOR, NZXT C1000 GOLD, MONTECH TITAN GOLD — [Shopee](https://shopee.co.id/list/PSU/PC) |
+| **PSU 1000W 80+ Gold** | **2.490.000 – 3.186.000** (Shopee) / **Rp2.250.000** (FSP Hydro G Pro, Starcomp Solo — termurah) | KYO SAMA ARMOR, NZXT C1000 GOLD, MONTECH TITAN GOLD — [Shopee](https://shopee.co.id/list/PSU/PC); FSP Hydro G Pro 1000W Modular ATX3.0 PCIe Gen5 — [Starcomp Solo](https://www.tokopedia.com/starcompsolo/etalase/processor-amd) |
 | **NVMe Gen4 1TB — WD Black SN770** | **~1.558.000** | [Tokopedia](https://www.tokopedia.com/find/wd-black-sn770-1tb) — garansi resmi, durable, ga perlu top tier |
 | **NVMe Gen4 2TB — WD Black SN850X (heatsink)** | **~3.217.000** | [Tokopedia](https://www.tokopedia.com/wd-official/ssd-wd-black-sn850x-1tb-2tb-ssd-m-2-nvme-pcie-gaming-1tb-heatsink) — WD Official Store |
+| **ADATA Legend 900 (Gen4x4) — 512GB/1TB/2TB satu listing** | **Rp1.701.700 (promo, dari Rp1.870.000)** | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) — 100+ terjual, harga kemungkinan untuk kapasitas terendah (512GB), varian 1TB/2TB perlu klik detail produk |
+| ADATA Legend 900 512GB (Gen4x4) — cross-check toko lain | ~1.665.000 – 1.858.220 | Els Computer, distributorkomputer, ProTech Com (harga promo) — rating 5.0, ratusan terjual tiap toko |
+| ADATA Legend 900 1TB (Gen4x4) — cross-check toko lain | ~2.866.500 – 2.911.090 | Agres Komputer Official (250+ terjual), ONE IT Gadget |
+| WD Green SN3000 500GB/1TB/2TB (Gen4) | Rp1.592.500 | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) — lebih murah dari WD Black, tapi **WD Green = lini lebih rendah** (biasanya DRAM-less, endurance lebih rendah) — ga dipilih, kriteria durable tetap arahkan ke WD Black/ADATA Legend 900 |
+| Kingston NV3 500GB/1TB/2TB (Gen4, 6000mbps) | Rp1.875.510 | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) — alternatif lain, brand established, garansi resmi |
+| Samsung 990 PRO 1TB (Gen4) — Starcomp Solo | Rp4.700.000 | Starcomp Solo — lebih mahal, kelas atas, ga perlu buat kriteria "ga usah top tier" |
+| Samsung 990 NVMe 1TB/2TB — Samsung Official Store | Rp4.670.120 | 500+ terjual, official — confirm harga Samsung emang di atas ADATA/WD Black, konsisten sama keputusan pilih non-Samsung buat hemat |
+| ZHITAI TI600 500GB/1TB (Gen4) — Starcomp Solo | Rp2.790.000 | Starcomp Solo — merk kurang established dibanding WD Black/ADATA/Samsung buat kriteria "durable" |
 | NVMe alternatif — Samsung 990 EVO Plus 1TB/2TB | 4.058.225 – 5.984.000 (1TB) / 6.219.000 – 7.699.000 (2TB) | [Tokopedia](https://www.tokopedia.com/find/samsung-990-evo-plus-2-tb) — gen4x4/gen5x2, lebih mahal dari WD Black, ga perlu buat kebutuhan sekarang |
 
 **Storage terpilih**: WD Black SN770 1TB (~1,56jt) + SN850X 2TB (~3,2jt) = **~4,78jt total**. Kriteria "durable, gen terbaru (Gen4), garansi jelas, ga perlu top tier" terpenuhi — WD Black lini garansi resmi jelas (biasanya 5 tahun), Gen4 masih current (Gen5 baru dibutuhin kalau butuh bandwidth ekstrem, ga relevan buat beban kerja project ini), harga jauh di bawah Samsung 990 EVO Plus tanpa banyak kehilangan durability.
 
+**Catatan toko Starcomp Solo**: toko ini (dipakai buat harga CPU real di atas) ga jual WD Black, tapi ADATA Legend 900 (Gen4x4) jadi alternatif setara kalau mau belanja satu toko sekaligus — ADATA merk established, garansi resmi 5 tahun, cocok kriteria yang sama. Kalau prioritas belanja satu toko (memudahkan logistik/invoice), ADATA Legend 900 bisa gantiin WD Black tanpa mengorbankan kriteria durability.
+
+**Update harga ADATA Legend 900 (cross-check banyak toko)**: 512GB ~1,67-1,86jt, 1TB ~2,87-2,91jt — dengan garansi resmi 5 tahun (tercantum di listing "5Y"). Kalau pilih **512GB + 512GB** (2 unit, total 1TB kombinasi) malah lebih mahal (~3,3-3,7jt) dibanding **1 unit 1TB** (~2,87jt) — jadi rekomendasi tetap: 1 unit sesuai kapasitas yang dibutuhin, jangan gabung unit kecil.
+
+**Toko YOUNGS COMPUTER (Sleman, rating 4.9, 102rb+ terjual, est. sejak 2006)** — toko lebih besar dari Starcomp Solo, ada etalase Motherboard AMD & VGA Nvidia GeForce terpisah, kandidat kuat juga buat cek harga mobo dual-VGA & GPU. RAM DDR5 32GB kit di toko ini (Kingston Fury Beast / ADATA XPG Lancer Blade, 5600MHz) ~8,04-8,05jt — lebih mahal dari G.Skill Flare X5 (~6,5jt) tapi brand lebih dikenal & availability jelas, jadi alternatif kalau G.Skill susah dicari. Storage-nya juga lengkap: ADATA Legend 900 promo Rp1,7jt, plus alternatif Kingston NV3 & WD Green (tapi WD Green dilewatin, lini lebih rendah dari WD Black).
+
 **Temuan kritis:**
 - RAM DDR5 lagi mahal banget secara global — produsen alihin kapasitas produksi ke AI/data center, suplai konsumen ketat sejak akhir 2025, belum ada tanda turun di 2026. Kit 128GB (~29jt) sendirian udah nyaris makan seluruh budget awal. RAM 32GB (G.Skill Flare X5, ~6,5jt) jauh lebih terjangkau — cocok sama keputusan turun ke 32GB (lihat Budget final di bawah)
 - **RTX 3090 second ternyata LEBIH MAHAL dari RTX 5060 Ti baru** (19-46,7jt vs 13,15-19,1jt) — makin nguatin rekomendasi 5060 Ti di section "Pilihan GPU" di atas. Second-hand 3090 ga otomatis lebih murah, malah listing termurah yang masuk akal (MSI Gaming ~19jt) itu di harga tertinggi 5060 Ti (~19,1jt) — 5060 Ti menang jelas dari sisi harga+garansi+efisiensi daya tanpa korban banyak buat kebutuhan classical ML sekarang
+- **Toko Starcomp Solo (Tokopedia, rating 5.0, 17rb+ terjual, Sukoharjo Jateng)** ternyata jual Ryzen 7 9700X lebih murah dari estimasi awal (5,675jt vs estimasi 6,79-7,04jt) — toko ini juga jual mainboard AMD & VGA AMD/Intel, kandidat kuat buat cek harga mobo dual-VGA slot & belanja beneran nanti (satu toko, reputasi jelas)
 
 ## Dampak ke model-training layer (project ini)
 
@@ -280,7 +305,8 @@ Alasan classical ML tetap default: MOPSO butuh eval model berulang kali tiap ite
 - [ ] Pantau harga DDR5 — kalau turun atau budget nambah, upgrade 32GB → 64GB duluan sebelum GPU di-upgrade
 - [ ] Cek harga storage (NVMe/SSD) & casing real — masih estimasi kasar, belum discrape
 - [ ] Finalisasi varian RAM (pilih G.Skill, bukan varian premium) + mobo spesifik biar total tetap ≤40jt (skenario mahal saat ini ~50,3jt kalau semua part ambil termahal)
-- [ ] Cari mobo AM5 B650/X670 dengan 2x slot PCIe x16 beneran (bukan cuma fisik) — cek harga real, kemungkinan naikin total budget dari estimasi mobo entry (~3-3,9jt) sebelumnya
+- [x] ~~Cari mobo AM5 B650/X670 harga real~~ — sudah dicek (YOUNGS COMPUTER). **3 kandidat ATX**: MSI PRO B650-S WIFI (2,42jt), MSI B650 GAMING PLUS WIFI (2,91jt), ASUS PRIME X670-P WIFI-CSM (3,59jt) — harga malah lebih murah dari estimasi awal (~3-3,9jt)
+- [ ] **Verifikasi spek sheet** 3 kandidat mobo di atas — pastikan slot PCIe x16 kedua beneran ada lane (x8/x4 elektrik), bukan cuma slot fisik kosong. Ini belum bisa dipastikan dari listing marketplace, perlu cek manual/spek resmi vendor
 - [ ] Hitung ulang kapasitas PSU 1000W buat skenario 2 GPU (5060 Ti x2 + CPU + komponen lain)
 - [x] ~~Cek harga storage NVMe real~~ — sudah dicek. **Storage final: WD Black SN770 1TB (~1,56jt) + SN850X 2TB (~3,2jt) = ~4,78jt**, gen4, garansi resmi, ga perlu top tier (Gen5/990 Pro dilewatin, ga perlu buat kebutuhan sekarang)
 - [ ] Cek harga casing real — masih estimasi kasar (~1,5jt), belum discrape
