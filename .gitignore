@@ -1,0 +1,37 @@
+# Data
+data/*.csv
+data/*.db
+data/*.sqlite*
+data/raw/
+data/processed/
+
+# Models
+*.pkl
+*.h5
+*.pt
+*.onnx
+model-training/checkpoints/
+model-training/mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node / dashboard
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Firmware build artifacts
+.pio/
+*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
