@@ -110,18 +110,49 @@ Dipertanyakan: kenapa harus 3090, kenapa ga 5060 Ti aja? Trade-off dibahas, **ke
 
 ## Opsi hardware (revisi — mempertimbangkan socket)
 
-### Opsi A — AMD AM5 (rekomendasi upgradeability) — RACIKAN FINAL berdasar scraping
+### Opsi A — AMD AM5 (rekomendasi upgradeability) — RACIKAN FINAL berdasar katalog resmi toko
+
+Update pakai katalog resmi (bukan scraping marketplace) dari 2 toko: [Starcomp Solo](docs/katalog/starcomp.md) dan Youngs Computer (`docs/katalog/Youngs Componen Retail Price.xlsx`) — harga toko langsung, lebih otoritatif dari listing Tokopedia (yang bisa beda karena promo/ongkir/versi lama).
 
 | Komponen | Pilihan | Harga real | Sumber |
 |---|---|---|---|
-| CPU | AMD Ryzen 7 9700X | **Rp5.675.000** | [Starcomp Solo](https://www.tokopedia.com/starcompsolo/etalase/processor-amd) |
-| Motherboard | MSI PRO B650-S WIFI (ATX, kandidat dual-VGA — **spek slot kedua belum diverifikasi**) | **Rp2.417.870** | [YOUNGS COMPUTER](https://www.tokopedia.com/youngscomputer) |
-| RAM | DDR5 32GB kit 6000MHz CL30, G.Skill Flare X5 | **Rp6.500.000** | Tokopedia (cek ulang manual, belum dari toko utama) |
-| GPU | RTX 5060 Ti 16GB | **Rp13.150.000** (termurah, cek merk spesifik) | Tokopedia (belum dari toko utama Starcomp Solo/YOUNGS COMPUTER — masih perlu discrape) |
-| Storage | WD Black SN770 1TB + SN850X 2TB (atau ADATA Legend 900 1TB ~2,87jt sbg alternatif satu-toko) | **~Rp4.775.000** | Tokopedia — WD Official Store |
-| PSU | FSP Hydro G Pro 1000W 80+ Gold Modular ATX3.0 PCIe Gen5 | **Rp2.250.000** | [Starcomp Solo](https://www.tokopedia.com/starcompsolo/etalase/processor-amd) |
-| Casing + fan/cooler | belum discrape | ~Rp1.500.000 (estimasi) | — |
-| **TOTAL** | | **~Rp36.267.870** | sisa buffer ~Rp3,7jt dari cap 40jt |
+| CPU | AMD Ryzen 7 9700X **Tray (No Fan)** | **Rp5.379.000** | Katalog Youngs Computer — lebih murah dari Tokopedia (5,675jt) dan dari versi Box (6,534jt) |
+| Motherboard | ASROCK X870 Challenger WIFI (ATX, chipset X870 — PCIe 5.0 wajib di slot GPU utama, standar lebih tinggi dari X670 biasa) | **Rp4.450.000** | Katalog Youngs Computer |
+| RAM | DDR5 32GB kit EXPO 5600MHz, Kingston Fury Beast Black | **Rp7.972.000** | Katalog Youngs Computer — G.Skill Flare X5 ada di katalog tapi harga belum diisi (kosong), Kingston jadi acuan pasti |
+| GPU | RTX 5060 Ti 16GB, Colorful Gaming Duo (termurah di katalog) | **Rp13.596.000** | Katalog Youngs Computer |
+| Storage | ADATA Legend 900 1TB NVMe Gen4 (7000mbps) | **Rp3.012.000** | Katalog Youngs Computer — WD Black SN850X/SN7100 ada di katalog tapi harga kolom kosong, ADATA jadi acuan pasti |
+| PSU | MSI MAG A1000GL PCIe Gen5 1000W 80+ Gold | **Rp2.557.000** | Katalog Youngs Computer |
+| Casing + fan/cooler | belum ada di katalog yang dibaca | ~Rp1.500.000 (estimasi) | — |
+| **TOTAL** | | **~Rp38.466.000** | sisa buffer ~Rp1,5jt dari cap 40jt |
+
+**Kenapa X870, bukan X670 atau B650?** Koreksi dari diskusi sebelumnya: X670/X670E ≠ X870/X870E soal PCIe — X670 biasa (non-E) sering PCIe 4.0 di slot GPU utama, cuma X670**E** yang PCIe 5.0 penuh. AMD standardisasi ulang di X870: **X870 non-E pun wajib PCIe 5.0 di slot utama** + USB4 built-in — jadi X870 base setara X670E lama, bukan setara X670 biasa. Karena itu X870 dipilih — standar PCIe lebih tinggi dan lebih jelas by-spec, dibanding X670-P yang PCIe gen slot utamanya ga pasti tanpa cek manual.
+
+## Perbandingan toko: Youngs Computer vs Starcomp (Origin + Solo)
+
+**Klarifikasi**: Starcomp punya 2 cabang — **Solo** dan **Origin** (Sleman, rating 4.9, 194rb+ terjual) — sama brand, kemungkinan dipisah biar bisa terima pesanan/inden paralel per cabang. Solo punya **dua sumber data**: katalog offline `docs/katalog/starcomp.md` (harga retail/distributor, ga ada SKU AM5 sama sekali) dan listing Tokopedia cabang Solo sendiri (ada SKU AM5, contoh Ryzen 7 9700X Rp5.675.000 — sama persis dgn harga Origin). Data lengkap gabungan: **[docs/katalog/starcomp-origin.md](docs/katalog/starcomp-origin.md)**. Kolom "Starcomp Solo" di tabel bawah campuran dua sumber itu tergantung komponen — dicatat per baris.
+
+| Komponen | Youngs Computer | Starcomp Solo | Starcomp Origin | Termurah |
+|---|---|---|---|---|
+| CPU Ryzen 7 9700X | **Rp5.379.000** (Tray) | Rp5.675.000 (Box, Tokopedia — sama persis dgn Origin) | Rp5.675.000 (Box) | **Youngs** |
+| Mobo ASROCK X870 Challenger WIFI | Rp4.450.000 | **Rp4.450.000** (sama) | Rp4.505.000 | **Youngs = Solo** |
+| RAM DDR5 32GB kit | Rp7.972.000 (5600MHz, Kingston) | **Rp7.350.000** (5600MHz, ADATA Lancer Blade) | Rp7.799.000 (5600MHz) | **Solo** |
+| GPU RTX 5060 Ti 16GB | **Rp13.596.000** | tidak tersedia | tidak tersedia | **Youngs (satu-satunya)** |
+| Storage NVMe 1TB Gen4 | **Rp3.012.000** (ADATA Legend 900) | tidak ada 1TB (cuma 512GB Rp1.950.000) | tidak ada varian murah (Samsung 990 PRO Rp4.700.000) | **Youngs** |
+| PSU 1000W Gold/Platinum | Rp2.557.000 (MSI MAG A1000GL Gold) | **Rp2.250.000** (FSP VITA PM Platinum) | tidak tersedia | **Solo** |
+
+### Skenario racikan
+
+**A — Full Youngs Computer**: CPU Tray Rp5.379.000 + Mobo Rp4.450.000 + RAM Rp7.972.000 + GPU Rp13.596.000 + Storage Rp3.012.000 + PSU Rp2.557.000 + Casing ~Rp1.500.000 = **~Rp38.466.000**
+
+**B — Full Starcomp (Solo + Origin)**: **tidak bisa dipenuhi** — GPU RTX 5060 Ti dan storage NVMe 1TB Gen4 murah sama sekali tidak ada di kedua cabang Starcomp. CPU+Mobo+RAM+PSU saja (tanpa GPU/Storage yang sepadan) ga menghasilkan racikan lengkap yang setara — Starcomp bukan opsi "beli semua dari satu brand" buat racikan kelas ini.
+
+**C — Mix (ambil termurah per komponen lintas toko)**: CPU Youngs Rp5.379.000 + Mobo Solo/Youngs Rp4.450.000 + RAM Solo Rp7.350.000 + GPU Youngs Rp13.596.000 (wajib, satu-satunya sumber) + Storage Youngs Rp3.012.000 + PSU Solo Rp2.250.000 + Casing ~Rp1.500.000 = **~Rp37.537.000**
+
+**Kesimpulan**: Skenario C (Mix) **lebih murah ~Rp929rb** dari Skenario A (Full Youngs) — hemat dari RAM (Solo lebih murah Rp622rb) dan PSU (Solo lebih murah Rp307rb). Tapi belanja dari 2 toko beda (Youngs + Starcomp Solo) nambah kompleksitas ongkir/proses pengadaan dibanding 1 toko saja. GPU RTX 5060 Ti dan storage NVMe murah **cuma ada di Youngs** — jadi Youngs tetap wajib jadi bagian dari racikan apapun skenarionya. Trade-off: **pilih A (simpel, satu toko, ~38,47jt)** kalau prioritas kemudahan pengadaan (relevan buat prosedur SPJ — lihat [legal-living-lab-spj-p2m-2026.md](legal-living-lab-spj-p2m-2026.md), pengadaan dinilai sbg satu paket), atau **pilih C (hemat ~930rb, dua toko, ~37,54jt)** kalau prioritas biaya dan pengadaan dari 2 vendor bukan masalah administratif.
+
+**Catatan jujur**: kenaikan chipset ini **belum otomatis menjawab** apakah slot PCIe x16 **kedua** (buat dual-VGA) beneran punya lane — itu keputusan desain board spesifik, bukan cuma soal chipset. ASROCK X870 Challenger WIFI tetap perlu **verifikasi manual spek sheet** buat konfirmasi slot kedua. Kenaikan budget dari X670-P (+Rp775rb) menaikkan standar PCIe minimum, bukan menghapus kebutuhan verifikasi itu.
+
+**Catatan sumber**: angka di atas dari kolom "HARGA" katalog resmi Youngs Computer (per 29 Agustus 2026) — kemungkinan harga distributor/reseller, cek ulang final sebelum beli (harga bisa berubah, beberapa kolom di katalog asli kosong/belum diisi toko). Koreksi dari catatan sebelumnya: Starcomp **cabang Origin** ternyata punya SKU AM5 lengkap termasuk X870 (katalog `starcomp.md` yang dibaca awal itu cabang **Solo**, isinya memang fokus Intel + AM4/DDR4 lama) — lihat perbandingan lengkap di section berikutnya dan [starcomp-origin.md](docs/katalog/starcomp-origin.md).
 
 Kelebihan:
 - Socket AM5 disupport resmi sampai 2027+ — upgrade CPU next-gen tanpa ganti mobo
@@ -297,16 +328,17 @@ Alasan classical ML tetap default: MOPSO butuh eval model berulang kali tiap ite
 - [ ] GPU passthrough ke VM Ubuntu — konfirmasi Proxmox support passthrough GPU ke VM (bukan cuma host)
 - [ ] Kalau VM Windows (MATLAB) & VM Ubuntu (training) butuh GPU bersamaan — perlu jadwal pemakaian atau vGPU split?
 - [ ] Storage allocation per VM (NVMe 1TB + SSD/NVMe 2TB) — belum dibagi per fungsi
-- [ ] Vendor/toko rakitan final
+- [x] **Vendor/toko rakitan final: Youngs Computer** (Sleman, rating 4.9, est. 2006) — punya katalog resmi lengkap (CPU/mobo/RAM/GPU/PSU/storage semua tersedia di satu tempat, harga lebih murah dari marketplace Tokopedia). Starcomp Solo dicoret dari kandidat utama — katalognya ga punya SKU AM5/DDR5/RTX 5060 Ti yang relevan
 - [ ] Pilih mobo AM5 spesifik — cek VRM quality, jumlah slot RAM (4x biar bisa 64GB/128GB+), PCIe lane buat GPU + NVMe sekaligus
 - [x] ~~Cek harga RTX 3090 24GB manual~~ — sudah dicek, 3090 second (19-46,7jt) ternyata lebih mahal dari 5060 Ti baru (13,15-19,1jt)
 - [x] **GPU final: RTX 5060 Ti 16GB** — diputuskan, dicoret dari trade-off
 - [x] ~~Cek harga RAM DDR5 32GB kit real~~ — sudah dicek, G.Skill Flare X5 ~6,5jt s/d Corsair Dominator Titanium ~12jt
 - [ ] Pantau harga DDR5 — kalau turun atau budget nambah, upgrade 32GB → 64GB duluan sebelum GPU di-upgrade
-- [ ] Cek harga storage (NVMe/SSD) & casing real — masih estimasi kasar, belum discrape
+- [x] ~~Cek harga storage (NVMe/SSD) real~~ — sudah dari katalog resmi Youngs Computer, ADATA Legend 900 1TB Rp3.012.000
 - [ ] Finalisasi varian RAM (pilih G.Skill, bukan varian premium) + mobo spesifik biar total tetap ≤40jt (skenario mahal saat ini ~50,3jt kalau semua part ambil termahal)
 - [x] ~~Cari mobo AM5 B650/X670 harga real~~ — sudah dicek (YOUNGS COMPUTER). **3 kandidat ATX**: MSI PRO B650-S WIFI (2,42jt), MSI B650 GAMING PLUS WIFI (2,91jt), ASUS PRIME X670-P WIFI-CSM (3,59jt) — harga malah lebih murah dari estimasi awal (~3-3,9jt)
-- [ ] **Verifikasi spek sheet** 3 kandidat mobo di atas — pastikan slot PCIe x16 kedua beneran ada lane (x8/x4 elektrik), bukan cuma slot fisik kosong. Ini belum bisa dipastikan dari listing marketplace, perlu cek manual/spek resmi vendor
+- [x] **Mobo final: ASROCK X870 Challenger WIFI (Rp4,45jt)** — X870 wajib PCIe 5.0 di slot GPU utama (standar lebih tinggi dari X670 non-E). B650-S (Rp2,47jt) & X670-P (Rp3,675jt) tetap opsi hemat kalau mau turun budget
+- [ ] **Verifikasi manual spek sheet ASROCK X870 Challenger WIFI** — chipset lebih tinggi TIDAK otomatis pastiin slot PCIe x16 kedua punya lane (x8/x4). Ini tetap keputusan desain board spesifik, harus dicek manual sebelum final beli
 - [ ] Hitung ulang kapasitas PSU 1000W buat skenario 2 GPU (5060 Ti x2 + CPU + komponen lain)
 - [x] ~~Cek harga storage NVMe real~~ — sudah dicek. **Storage final: WD Black SN770 1TB (~1,56jt) + SN850X 2TB (~3,2jt) = ~4,78jt**, gen4, garansi resmi, ga perlu top tier (Gen5/990 Pro dilewatin, ga perlu buat kebutuhan sekarang)
 - [ ] Cek harga casing real — masih estimasi kasar (~1,5jt), belum discrape
