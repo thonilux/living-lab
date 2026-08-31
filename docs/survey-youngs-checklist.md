@@ -1,3 +1,4 @@
+
 # Checklist Survey ke Youngs Computer — Skema Modul Pendukung
 
 **Tujuan**: Verifikasi stok fisik, harga real (toko offline), dan permintaan *Official Quotation* per modul pendukung sistem komputasi Living Lab untuk kepatuhan SPJ P2M UNS 2026.  
@@ -78,11 +79,11 @@ Minta pihak Youngs Computer untuk mencetak **Surat Penawaran Harga Resmi (Offici
 
 ---
 
-## 5. Lembar Catatan Hasil Survei (Diisi di Lokasi)
+## 5. Lembar Catatan Hasil Survei (Hasil Lapangan 2026-08-31)
 
-* **Nama Sales / PIC Toko**: __________________________________
-* **No. WA PIC**: __________________________________
-* **Status Stok Keseluruhan**: [ ] Semua Ready Fisik | [ ] Ada yang Perlu Inden (Sebutkan: ________________)
-* **Status PKP & e-Faktur**: [ ] Bisa Terbitkan Faktur Pajak | [ ] Tidak Bisa
-* **Total Penawaran Toko**: Rp __________________________
-* **Catatan Khusus**: __________________________________________________________________
+* **Status Stok**: **Semua Komponen Pre-Order (PO) / Inden** dari distributor resmi.
+* **Status Dokumen**: Sedang menunggu penerbitan **Surat Penawaran Harga Resmi (Official Quotation)** dari tim sales/marketing Youngs Computer.
+* **Catatan Tambahan**:
+  - Lead time kedatangan barang dan status garansi resmi per komponen perlu dipastikan tercantum di lembar penawaran.
+  - Skema modul pendukung (< Rp10jt per invoice) diajukan ke toko untuk pemisahan penawaran resmi.
+
