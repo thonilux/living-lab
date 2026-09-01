@@ -16,6 +16,19 @@ Belum termasuk ongkos kirim — total riil bisa lebih tinggi lagi dari Rp45.072.
 
 **PPN dikonfirmasi belum termasuk di harga penawaran.** Marketing bilang barang-barang di penawaran "berppn semua" (bisa terbit faktur pajak) — tapi PDF penawaran eksplisit nyebut *"Apabila transaksi memerlukan penerbitan Faktur Pajak, mohon segera informasikan kepada tim marketing kami untuk kami lakukan penyesuaian harga"*. Artinya harga Rp40.606.000 itu harga **di luar PPN**; begitu institusi minta faktur pajak (yang **wajib** buat SPJ P2M — lihat [legal-living-lab-spj-p2m-2026.md](legal-living-lab-spj-p2m-2026.md)), harga naik 11%.
 
+### Dua jalur keputusan
+
+Tier PPN di [skema-pemisahan-pembelian-workstation.md](skema-pemisahan-pembelian-workstation.md) berlaku **per nilai transaksi/invoice**, bukan per komponen fisik. Jadi ada 2 jalur beli yang hasilnya beda jauh:
+
+| Jalur | Cara beli | Total after-PPN | Kompleksitas |
+|---|---|---|---|
+| **A — Paket komplit** | Satu invoice/faktur dari Youngs mencakup semua komponen (Rp40.606.000) — nilai transaksi otomatis masuk tier >10jt, **seluruh nilai kena PPN 11%** | **Rp45.072.660** | Paling simpel — 1 invoice, 1 vendor, tidak perlu skema pemisahan |
+| **B — Skema pemisahan/Mix** | Invoice dipecah per item/grup sesuai tier (lihat skema pemisahan), sebagian komponen (≤5jt/item) bebas pajak | **~Rp41,5jt** (Skenario Mix) atau **~Rp41,49jt** (Full Youngs tanpa casing/cooler) | Lebih ribet — banyak invoice/vendor, dan menyimpan risiko legal (pemecahan paket, red flag di [legal-living-lab-spj-p2m-2026.md](legal-living-lab-spj-p2m-2026.md)) |
+
+**Jalur A (paket komplit) adalah exit paling aman** kalau atasan tidak mau repot dengan skema pemisahan dan bersedia menanggung PPN penuh — satu invoice ke satu vendor, tidak ada risiko "pemecahan paket pengadaan" yang jadi red flag di analisis legal, dan prosesnya paling cepat/simpel dari sisi administrasi. Trade-off-nya: totalnya (Rp45,07jt) paling jauh dari cap 40jt (~Rp5,07jt lewat), jadi **butuh approval budget tambahan** yang lebih besar dibanding Jalur B.
+
+Jalur B lebih hemat (~Rp3,6-3,9jt lebih murah dari Jalur A) tapi menuntut lebih banyak koordinasi (multi-invoice, kemungkinan multi-vendor) dan risiko legal yang sudah dicatat eksplisit di dokumen skema pemisahan — keputusan akhir ada di atasan/pihak pengadaan, bukan murni pertimbangan teknis.
+
 ## Breakdown selisih per komponen (resmi vs draft)
 
 | Komponen | Draft (spec.md) | Penawaran resmi | Selisih | % dari total selisih |
