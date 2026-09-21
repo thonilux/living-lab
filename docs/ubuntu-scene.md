@@ -59,9 +59,33 @@ Jalan langsung di hardware, pegang GPU native — tidak ada lapisan hypervisor l
 4. Install Docker, InfluxDB, MQTT, Grafana, JupyterLab langsung di Ubuntu host
 5. Install VirtualBox atau virt-manager (KVM/QEMU), buat VM Windows untuk MATLAB
 
+## Progress eksekusi (log)
+
+**Instalasi berhasil**: Ubuntu 26.04.1 LTS (codename "resolute"), kernel `7.0.0-31-generic`, hostname `dewa-iotlab`, user `iotlab`.
+
+**NIC Realtek RTL8126 — kedetect otomatis, tanpa perlu compile driver manual**: `enp14s0` langsung UP dengan driver `r8169` bawaan kernel. Ini konfirmasi dugaan utama alasan pindah ke Ubuntu — kernel lebih baru (7.0.0) langsung dukung NIC 5G generasi baru ini, beda dari kernel 6.8 Proxmox 8.4 yang sama sekali tidak kedetect.
+
+**GPU NVIDIA — driver native berhasil, tanpa passthrough sama sekali**:
+```
+sudo apt install nvidia-driver-595-open
+sudo reboot
+```
+Sempat muncul layar **MOK Management** (biru, karena Secure Boot aktif) — pilih **Perform MOK management > Enroll MOK > Continue**, masukin password yang dibuat saat instalasi driver, **Reboot**. Setelah reboot, verifikasi:
+```
+nvidia-smi
+```
+Hasil: driver `595.91.07`, CUDA `13.2`, GPU RTX 5060 Ti terdeteksi penuh dengan 16GB VRAM. **Ini menyelesaikan masalah yang 2 hari mentok di Proxmox** (`Failed to set group container: Invalid argument`) — GPU langsung jalan di host tanpa VFIO/IOMMU/container sama sekali.
+
 ## Open questions
 
-- [ ] Konfirmasi NIC Realtek RTL8126 kedetect otomatis di Ubuntu installer
-- [ ] Konfirmasi driver NVIDIA terbaru support penuh RTX 5060 Ti di Ubuntu LTS
+- [x] ~~Konfirmasi NIC Realtek RTL8126 kedetect otomatis di Ubuntu installer~~ — sukses, driver r8169 otomatis
+- [x] ~~Konfirmasi driver NVIDIA terbaru support penuh RTX 5060 Ti di Ubuntu LTS~~ — sukses, nvidia-driver-595-open, CUDA 13.2
 - [ ] Tentukan tool VM Windows: VirtualBox (lebih mudah, GUI ramah) vs virt-manager/KVM (lebih ringan, performa lebih baik)
 - [ ] Setup Tailscale/WireGuard di Ubuntu host untuk remote access
+- [x] ~~Install Docker~~ — sukses via `get.docker.com` script
+- [x] ~~Setup akses remote GUI~~ — GNOME Remote Desktop (RDP) sudah aktif bawaan, port 3389, tidak perlu setup VNC/noVNC manual (sempat dicoba TigerVNC tapi crash — GNOME Shell modern/Wayland tidak cocok dijalankan lewat xstartup VNC biasa). Cek kredensial RDP harus dari terminal desktop langsung (`grdctl status --show-credentials`), gagal lewat SSH karena butuh akses `$DISPLAY` X11
+- [x] ~~Install cloudflared~~ — sukses, native (bukan Docker), alasan: infrastructure-level, harus tetap hidup independen dari container lain
+- [ ] Setup docker-compose: InfluxDB + Mosquitto (MQTT) + Grafana
+- [ ] Setup JupyterLab
+- [ ] Setup Miniconda + env `livinglab-training`
+- [ ] Install VirtualBox/virt-manager untuk VM Windows (MATLAB)
