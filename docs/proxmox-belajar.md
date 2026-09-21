@@ -157,6 +157,89 @@ NVMe 1TB kerasa ketat kalau semua numpuk (OS host + 2 VM disk + data aktif). Sol
 
 Ga ada NAS-grade (Red Plus/IronWolf) di bawah 2jt — yang murah semua desktop/CCTV-grade dengan garansi pendek (1 tahun). Trade-off: kalau HDD cuma buat backup sesekali (ga nyala nonstop nemenin database), Seagate 2TB 1 Tahun cukup aman & hemat. Kalau rencananya jadi storage aktif yang nyala 24/7 dampingi InfluxDB, lebih aman ke WD Red Plus (NAS-grade, garansi 3 tahun).
 
+## Progress instalasi nyata (log)
+
+Mobo aktual: **MSI PRO X870E-S EVO WIFI** (bukan ASROCK X870 Challenger yang dicatat di rencana awal). Detail dari manual resmi:
+- PCI_E1 (dari CPU): PCIe 5.0 x16 — slot GPU utama
+- PCI_E2 (dari chipset): cuma PCIe 4.0 x4 — **bukan x16 penuh**, jadi rencana lama "dual-GPU slot setara" di catatan sebelumnya tidak akurat untuk mobo ini
+- M2_1 (dari CPU): PCIe 5.0 x4 — cocok dipasangi NVMe Gen5 (WD Black) buat speed penuh
+- Cara masuk BIOS: tekan **Delete** saat boot (bukan F2/F11 seperti asumsi awal)
+
+**Status BIOS setup**: SVM Mode dan IOMMU sudah **Enabled**, stabil setelah restart — prasyarat dasar virtualization untuk Proxmox VE sudah terpenuhi.
+
+**Insiden EZ Debug LED (DRAM) saat setup**: LED DRAM (kuning) sempat nyala setelah enable SVM pertama kali dan lagi setelah enable IOMMU. Ini **normal** — bukan RAM rusak, melainkan proses memory retraining DDR5/AM5 tiap kali ada perubahan setting BIOS penting. Solusi: biarin sistem reboot sendiri tanpa diganggu (bisa makan waktu, layar hitam sebentar), jangan force restart berulang karena tiap interupsi bikin retraining mulai dari nol. Sempat dicoba Clear CMOS di tengah proses, hasil akhirnya normal setelah dikasih waktu.
+
+**SVM (Secure Virtual Machine)**: fitur virtualization AMD (setara Intel VT-x) — instruksi CPU yang dipakai hypervisor (Proxmox) buat isolasi VM. Wajib nyala duluan sebelum VM bisa jalan sama sekali, terpisah dari IOMMU yang khusus buat GPU passthrough.
+
+**Insiden hard lockup saat instalasi awal**: instalasi Proxmox 9.2-1 sempat gagal berkali-kali dengan error "watchdog detected hard LOCKUP on CPU X" di kernel boot log (macet setelah baris "RAS: Correctable Errors collector initialized"). Root cause: BIOS motherboard versi lama belum punya microcode AGESA yang matang buat CPU Zen 5 (Ryzen 9000). **Solusi: update BIOS motherboard ke versi terbaru via M-FLASH** (dari dalam BIOS, USB FAT32 berisi file BIOS terbaru dari situs MSI). Setelah update BIOS, pilih **PBO: Auto** (bukan Enable manual — prioritas stabilitas 24/7 daripada ekstra performa overclock), dan **SVM + IOMMU harus di-enable ulang** karena update BIOS reset semua setting ke default.
+
+**Instalasi berhasil**: Proxmox VE 9.2-1 terinstall, IP static `10.10.10.95/24` (gateway `10.10.10.1`, jaringan rumah 10.10.10.0/24), akses Web UI di `https://10.10.10.95:8006`, login `root` + password saat instalasi.
+
+**Verifikasi GPU & IOMMU dari Shell Proxmox** (Node > Shell di Web UI):
+```
+lspci | grep -i nvidia
+# 01:00.0 VGA compatible controller: NVIDIA Corporation GB206 [GeForce RTX 5060 Ti]
+# 01:00.1 Audio device: NVIDIA Corporation GB206 High Definition Audio Controller
+
+dmesg | grep -e DMAR -e IOMMU
+# AMD-Vi: IOMMU performance counters supported — IOMMU aktif di level kernel, bukan cuma BIOS
+```
+
+GPU RTX 5060 Ti kedetek sempurna, IOMMU aktif. Fondasi host siap buat langkah berikutnya: bikin VM Ubuntu pertama, baru nanti setup GPU passthrough.
+
+**Troubleshooting GPU passthrough — error "Failed to set group container: Invalid argument"**: setelah VM Ubuntu jalan dan coba passthrough RTX 5060 Ti (IOMMU group 13, terisolasi bersih), start VM gagal dengan error VFIO container. Langkah troubleshoot yang sudah dicoba:
+- Blacklist `nouveau` dan `nvidiafb` di `/etc/modprobe.d/blacklist.conf` — beres (nouveau berhasil dilepas dari GPU)
+- Tambah `video=efifb:off` ke `GRUB_CMDLINE_LINUX_DEFAULT`, `update-grub`, reboot — belum menyelesaikan error
+- `allow_unsafe_interrupts=1` — tidak relevan, AMD-Vi interrupt remapping sudah aktif (dikonfirmasi via dmesg)
+- Machine type diubah ke q35 (dari default i440fx) — tidak menyelesaikan
+- Cek raw device vs mapped device (Resource Mapping) — sama-sama gagal di titik identik
+- Downgrade kernel dari `7.0.14-17-pve` ke `7.0.2-6-pve` (pin via `proxmox-boot-tool`) — tidak menyelesaikan, bug ada di seluruh kernel 7.0.x series
+- `options vfio-pci disable_idle_d3=1` (fix yang dilaporkan berhasil di forum untuk kasus identik RTX 5060 Ti) — tidak menyelesaikan
+- Cek BIOS: Above 4G Decoding, Resizable BAR, CSM — semua dicek/diubah, tidak menyelesaikan
+- Verifikasi driver vfio-pci ter-bind benar di kedua device (VGA + Audio), IOMMU group 13 terisolasi bersih, device node `/dev/vfio/13` ada, tidak ada proses lain yang mengunci — semua normal
+
+**Kesimpulan sementara**: error "Failed to set group container: Invalid argument" ini kemungkinan besar **bug genuine** pada kombinasi RTX 5060 Ti (arsitektur Blackwell, GPU sangat baru) dengan kernel Linux yang dipakai Proxmox VE 9.2.20 (kernel 7.0.x series) — dikonfirmasi ada laporan serupa di forum komunitas Proxmox dengan kartu GPU yang sama persis. Solusi yang dilaporkan berhasil di forum (downgrade ke kernel 6.14) **tidak tersedia** di repo Proxmox 9.x (baseline kernelnya sudah 6.14+/7.0.x, versi lebih lama cuma ada di Proxmox VE 8.x — downgrade itu berarti downgrade seluruh versi Proxmox, bukan cuma kernel).
+
+**Opsi ke depan**:
+1. Tunggu update kernel/qemu dari Proxmox yang memperbaiki bug ini (biasanya GPU generasi baru butuh beberapa siklus rilis sebelum passthrough-nya matang)
+2. Tunggu update BIOS motherboard lebih baru dari MSI (AGESA versi lebih matang untuk Zen 5 + passthrough)
+3. Sementara waktu, training AI/ML pakai classical ML (CPU-based, scikit-learn/XGBoost — sudah jadi default rencana project ini) sambil GPU belum bisa di-passthrough ke VM
+4. Jika mendesak, opsi ekstrem: install Proxmox VE 8.x (downgrade penuh) untuk pakai kernel 6.x lama — belum direkomendasikan karena kehilangan fitur/fix versi 9.x lain
+
+**Update — diputuskan downgrade ke Proxmox VE 8.x**: setelah mengikuti panduan detail dari [kovasky.me RTX 5000 series passthrough guide](https://kovasky.me/blogs/rtx_5000_passthrough/) (tambahan `pcie_acs_override=downstream,multifunction`, `nofb nomodeset video=vesafb:off,efifb:off`, `kvm ignore_msrs=1`, ROM-Bar & Primary GPU di-uncheck saat Add PCI Device) — masih error identik "Failed to set group container: Invalid argument". Dicek juga `dma_entry_limit` dan AMD-Vi event log — semua normal, tidak ada IO_PAGE_FAULT/hardware fault tercatat. Kesimpulan: bug ada di level kernel 7.0.x series Proxmox, bukan config/BIOS/hardware. **Keputusan: install ulang Proxmox VE 8.4** (base kernel 6.8/6.11, beda major version dari 7.0.x yang bermasalah) — data VM saat itu masih minim jadi install ulang tidak banyak kerugian. Setelah instal ulang, ulangi: enable SVM+IOMMU di BIOS, buat VM Ubuntu baru, dan coba GPU passthrough lagi dari awal.
+
+**Masalah baru setelah downgrade ke Proxmox 8.4**: NIC Ethernet onboard (Realtek RTL8126VB, 5G LAN) **tidak kedetect sama sekali** oleh installer maupun kernel 6.8 — installer cuma nampilin interface WiFi (`wlp15s0`) sebagai pilihan. Ini kebalikan dari masalah GPU: kernel 6.8 (lebih lama) belum punya driver buat NIC 5G Realtek generasi baru, sementara kernel 7.0.x (lebih baru, dipakai Proxmox 9.x) yang punya dukungan NIC ini malah punya bug GPU passthrough. Trade-off pahit: **kernel lama → NIC mati, kernel baru → GPU passthrough mati**.
+
+Sempat dicoba workaround: USB tethering dari HP Android buat dapat internet sementara (guna `apt install dkms` + `pve-headers`, lalu compile driver [realtek-r8126-dkms](https://github.com/awesometic/realtek-r8126-dkms) dari GitHub via `.deb`) — tethering tidak stabil (interface sering DOWN sendiri, `dpkg -i` gagal karena dependency `dkms` belum ada dan repo tidak bisa diakses).
+
+## Keputusan besar: ganti skema arsitektur — Ubuntu jadi OS utama, bukan Proxmox
+
+Setelah 2 masalah besar (GPU passthrough gagal di kernel baru, NIC tidak kedetect di kernel lama) sama-sama berakar dari **kematangan dukungan kernel terhadap hardware yang sangat baru** (CPU Zen 5, GPU Blackwell, NIC 5G Realtek terbaru), diputuskan ganti pendekatan: **Ubuntu Desktop jadi OS host langsung** (bukan hypervisor Proxmox), VM Windows (buat MATLAB) dijalankan di dalam Ubuntu pakai VirtualBox/virt-manager.
+
+**Alasan (pro vs Proxmox):**
+
+| Aspek | Ubuntu host | Proxmox (semula) |
+|---|---|---|
+| GPU | Install driver NVIDIA native di host — tidak ada VFIO/IOMMU/container sama sekali, tidak ada bug passthrough | Perlu passthrough, kena bug kernel 7.0.x |
+| Network | Kernel Ubuntu jauh lebih baru & update rutin, NIC 5G Realtek kemungkinan besar langsung kedetect | Kernel 6.8/7.0.x sama-sama bermasalah (NIC vs GPU) |
+| Kompleksitas | Docker/InfluxDB/Grafana/JupyterLab langsung install di OS, tidak perlu mikir resource mapping/passthrough | Butuh setup VM + passthrough terpisah |
+| Isolasi | **Kalah** — semua servis + training jalan di 1 OS yang sama, kalau crash bisa berdampak ke VM Windows juga | VM-VM terisolasi kernel masing-masing |
+| Manajemen VM | Manual via virt-manager/VirtualBox GUI, tidak ada Web UI terpusat | Web UI terpusat, akses dari browser mana saja |
+| Scalability jangka panjang | Kurang siap kalau nanti perlu banyak VM sekaligus | Lebih matang untuk multi-VM/clustering |
+
+**Kesimpulan**: karena root cause masalah adalah kematangan software untuk hardware terbaru (bukan soal arsitektur yang salah), dan kebutuhan saat ini cuma 2 beban kerja (server IoT+training di 1 OS, MATLAB di 1 VM Windows) — Ubuntu host lebih pragmatis dipakai sekarang. Proxmox bisa dicoba lagi nanti setelah kernel/driver GPU & NIC generasi ini lebih matang (biasanya beberapa bulan setelah rilis hardware baru).
+
+**Rencana baru**:
+1. Install Ubuntu Desktop 24.04/26.04 LTS langsung ke NVMe (ganti Proxmox)
+2. Install driver NVIDIA native — GPU RTX 5060 Ti dipakai langsung host untuk training
+3. Install Docker, InfluxDB, MQTT, Grafana, JupyterLab langsung di Ubuntu host
+4. Install VirtualBox atau virt-manager (KVM/QEMU) untuk jalankan VM Windows (MATLAB) — GPU tidak perlu di-passthrough ke VM ini karena MATLAB pakai simulasi CPU-bound (lihat catatan sebelumnya)
+5. Cek NIC Realtek RTL8126 kedetect otomatis di installer Ubuntu — kemungkinan besar tidak perlu compile driver manual lagi
+
+**VM Ubuntu — pilih Server, bukan Desktop**: sempat ada ISO Ubuntu Desktop 26.04.1 di tangan, tapi diputuskan download **Ubuntu Server 24.04 LTS** dulu — GUI Desktop (GNOME) ga perlu buat VM yang isinya cuma Docker/InfluxDB/MQTT/Grafana/JupyterLab (semua diakses via browser/API), dan makan RAM+storage lebih banyak sia-sia buat server 24/7.
+
+**Catatan community script LXC**: sempat ada opsi pakai script `ct/ubuntu.sh` dari community-scripts/ProxmoxVE (bikin LXC container instan). Ditolak buat VM utama karena butuh GPU passthrough proper dan Docker nested — LXC kurang cocok buat itu (lihat alasan VM vs LXC di atas). Script itu tetap valid dipakai nanti kalau butuh container ringan terpisah (misal cuma servis kecil tanpa GPU).
+
 ## Sharing antar VM: Postgre + Samba
 
 **Akses Postgre dari VM Windows** — ga butuh NAS/file share sama sekali. Postgre server jalan di VM Ubuntu (misal di Docker), VM Windows connect langsung lewat network (IP VM Ubuntu + port 5432, pakai pgAdmin/psycopg2/ODBC). Cukup pastiin kedua VM satu jaringan (default bridge Proxmox) dan firewall Postgre allow koneksi dari IP VM Windows.
